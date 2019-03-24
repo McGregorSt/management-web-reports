@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import data from './db/app2.json'
+import data from './db/app.json'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import AppJSX from './components/App'
 
