@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import { Table } from 'reactstrap';
 
 
 export default class RightPanel extends Component {
@@ -7,20 +8,23 @@ export default class RightPanel extends Component {
 
         const displayedData = this.props.data.map( elm => {
             return(
-                <div>
-                    <div style={{ padding: '20px', float: 'left' }} >
-                        <span> { elm.DataSesji } </span>
-                        <p> { elm.ProwNettoKasPL } </p>
-                        {/* <h5>____________________</h5> */}
-                    </div>
-                </div>
+                    <tr >
+                        <td> { elm.DataSesji } </td>
+                        <td> { elm.ProwNettoKasPL } </td>
+                    </tr>
             )
         })
         return(
-            <div>
-
-                { displayedData }
-
+            <div className='panel'>
+                <Table>
+                    <thead>
+                    <tr>
+                        <th>Data Sesji</th>
+                        <th>{ this.props.incomeType } Value</th>
+                    </tr>
+                    </thead>
+                        { displayedData }
+                </Table>
             </div>
         )
     }

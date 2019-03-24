@@ -1,22 +1,13 @@
 import React, { Component } from 'react'
-// import DatePicker from "react-datepicker";
-// import "react-datepicker/dist/react-datepicker.css";
+import { Container, Row, Col } from 'reactstrap';
 
 
-import RightPanel from './RightPanel'
-import FooterSummary from './FooterSummary'
-import Charts from './Charts'
-
-
-
-
-const IncomeType = ({ income }) => {
+const IncomeType = ({ income, handleIncomeType }) => {
     
     return(
             <div>
-                <h4>Choose income type:</h4>
-                <select name="incomeType" id="">
-                            <option value=""></option>
+                <h6>Choose income type:</h6>
+                <select name="incomeType" id="incomeType" onChange={ handleIncomeType }>
                             { income.map( type => {
                                 return(
                                     <option key={ type } value={ type }>{ type }</option>
@@ -28,45 +19,17 @@ const IncomeType = ({ income }) => {
 }
 
 class DateRange extends Component {
-
-state = {
-    dateFrom: '',
-    dateTo: ''
-}
-
-handleDateFrom = (event) => {
-    this.setState({ dateFrom: event.target.value })
-}
-
-handleDateTo = (event) => {
-    this.setState({ dateTo: event.target.value })
-}
-
 render(){
-    
-    const filtering = (elm) => {
-        return elm.DataSesji >= this.state.dateFrom && elm.DataSesji <= this.state.dateTo
-    }
-    
-    const filteredData = this.props.data.filter(filtering)
-    console.log('fff', filteredData);
-    
-
-
     return(
-        <div>
-            <h2>
-                Start Date
-            </h2>
-                <input type='date' onChange={ this.handleDateFrom } />
-            <h2>
-                End Date
-            </h2>
-                <input type='date'  onChange={ this.handleDateTo } />
-
-            <Charts data={ filteredData } />
-            <RightPanel data={ filteredData } style={{ padding: '40px' }} />
-            <FooterSummary data={ filteredData } />
+        <div className='dates'>
+            <h6>
+                <span>Start Date</span> 
+                <input type='date' onChange={ this.props.handleDateFrom } className='inputDate'/>
+            </h6>
+            <h6>
+                <span>End Date</span> 
+                <input type='date'  onChange={ this.props.handleDateTo } className='inputDate'/>
+            </h6>
         </div>
     )
 }
@@ -77,8 +40,28 @@ export default class TopMenu extends Component {
     render() {
         return(
             <div>
-                <IncomeType income={ ['Commission', 'Interests', 'All'] } />
-                <DateRange data={ this.props.data } />
+                <Container>
+                    <Row>
+                        <Col>
+                            <DateRange 
+                            data={ this.props.data} 
+                            dateFrom={ this.props.dateFrom } 
+                            dateTo={ this.props.dateTo } 
+                            handleDateFrom={ this.props.handleDateFrom } 
+                            handleDateTo={ this.props.handleDateTo }  
+                            
+                            />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col>
+                            <IncomeType 
+                            income={ ['All', 'Commission', 'Interests'] }
+                            handleIncomeType={ this.props.handleIncomeType }
+                            />
+                        </Col>
+                    </Row>
+                </Container>
             </div>
         )
     }

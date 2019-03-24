@@ -1,12 +1,21 @@
 import React, { Component } from 'react'
-
+import { Card, CardImg, CardText, CardBody,
+    CardTitle, CardSubtitle, Button } from 'reactstrap';
 
 class FooterBox extends Component {
 
     render(){
         return(
             <div>
-                { this.props.children }
+                <div className='summaryDiv'>
+                    <Card className='summaryCard'>
+                        <CardBody>
+                            <CardTitle>Card title</CardTitle>
+                            <CardSubtitle>Card subtitle</CardSubtitle>
+                            <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                        </CardBody>
+                    </Card>
+                </div>
             </div>
         )
     }
@@ -47,10 +56,7 @@ export default class FooterSummary extends Component {
                 </FooterBox>
                 <FooterBox data={ this.props.data } >
                     <div>
-                        <span>Assets Value:</span>
-                        <h4> { assetsValue } </h4>
-                        <span>Change in this period:</span>
-                        <h5> { assetsValueChange } </h5>
+                    
                     </div>
                 </FooterBox>
                 <FooterBox data={ this.props.data } >

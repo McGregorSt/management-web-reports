@@ -7,9 +7,9 @@ export default class Charts extends Component {
 
     render(){
         return(
-            <div>
-                <LineChart width={600} height={300} data={ this.props.data }
-                    margin={{top: 5, right: 30, left: 20, bottom: 5}}>
+            <div className='chart'>
+                <LineChart width={700} height={350} data={ this.props.data }
+                    margin={{top: 15, right: 30, left: 0, bottom: 5}}>
                     <XAxis dataKey="DataSesji"/>
                     <YAxis />
                     <CartesianGrid strokeDasharray="3 3"/>
