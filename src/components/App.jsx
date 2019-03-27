@@ -13,7 +13,7 @@ import FooterSummary from './FooterSummary';
 export default class AppJSX extends Component {
     state = {
         dateFrom: new Date(),
-        dateTo: '2019-03-08',
+        dateTo: '2099-12-12',
         filteredData: [],
         incomeType: null,
     }
@@ -27,6 +27,9 @@ export default class AppJSX extends Component {
     handleDateTo = (event) => {
         this.setState({ dateTo: event.target.value })
         this.setState({ filteredData: this.props.data.filter(this.filtering)})
+        if(this.state.incomeType === null) {
+            alert('Choose income type')
+        }
     }
 
     handleIncomeType = (event) => {
@@ -38,10 +41,10 @@ export default class AppJSX extends Component {
     }
 
     render() {
-        console.log(this.state.filteredData)
+        console.log('inc   ', this.state.incomeType)
         return(
-            <div>
-                <Container>
+            <div >
+                <Container className='main' >
                     <Row>
                         <Col>
                             <TopMenu data={ this.props.data } 
@@ -53,9 +56,12 @@ export default class AppJSX extends Component {
                             />
                         </Col>
                     </Row>
-                    <Row>
+                    <Row className='content'>
                         <Col>
-                            <Charts data={this.state.filteredData} />
+                            <Charts 
+                            data={this.state.filteredData} 
+                            incomeType={ this.state.incomeType }
+                            />
                         </Col>
                         <Col>
                             <RightPanel 
@@ -66,8 +72,10 @@ export default class AppJSX extends Component {
                     </Row>
                     <Row>
                         <Col >
-                        SUMMARY
-                            <FooterSummary data={this.state.filteredData} />
+                            <FooterSummary 
+                            data={this.state.filteredData} 
+                            incomeType={ this.state.incomeType }
+                            />
                         </Col>
                     </Row>
                 </Container>

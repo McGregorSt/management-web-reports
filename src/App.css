@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -30,20 +30,54 @@
   to {
     transform: rotate(360deg);
   }
+} */
+#root{
+  background-color: rgb(216, 219, 221);
+  width: 90%;
+  height: 100%;
+  margin: auto;
 }
 
+.main {
+  padding: 0;
+}
+
+
+
+/* .row {
+  width: 100%;
+  margin: auto;
+} */
+.topMenu{
+  margin: auto;
+  width: 80%;
+  margin-top: 10px;
+  justify-content: center;
+}
 .dates {
+  max-width: 850px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   display: flex;
+  font-size: 10px;
 }
 .dates h6:nth-child(2) {
   margin-left: 40px;
 }
 .dates input {
   display: block;
+  height: 40px;
+  width: 280px;
+  
 }
 
-#incomeType {
-  width: 35%;
+.incomeType {
+  width: 73%;
+  height: 40px;
+  margin-bottom: 30px;
+}
+.content{
+  overflow-y: scroll;
 }
 
 .panel {
@@ -55,14 +89,32 @@
 
 .chart{
   margin-top: 20px;
+  font-size: 14px;
 }
 
-.summaryDiv {
+/* .summaryContent {
   display: flex;
   justify-content: space-between;
   
-}
+} */
 .summaryCard {
-  width: 100px;
-  height: 300px;
+  margin-top:30px;
+  width: 230px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.cardTitle{
+  font-size: 16px;
+}
+.cardSubtitle{
+  font-size: 24px;
+}
+.cardText{
+  font-size: 18px;
+}
+.tabMenu{
+  position: fixed;
+  bottom: 0;
 }

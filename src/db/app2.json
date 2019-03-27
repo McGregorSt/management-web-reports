@@ -1,2807 +1,2807 @@
 [
   {
-    "DataSesji": "2018-12-28",
+    "DataSesji": "2018-12-28";
     "IDCzas": 6571,
     "DzienNumer": 28,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 12,
     "Rok": 2018,
-    "Kwartal": "K4",
-    "Sesja": "T",
-    "ProwNettoKasPL": "11564.51",
-    "ProwBruttoKasPL": "13598.96",
-    "ObrotKasPL": "4525747,57",
-    "ProwNettoTermPL": "3343,51",
-    "ProwBruttoTermPL": "5685,73",
-    "ObrotTerminPL": "2437,61",
-    "ProwNettoKasZagr": "640,95",
-    "ProwBruttoKasZagr": "1049,30",
-    "ObrotKasZagr": "228883,25",
+    "Kwartal": "K4";
+    "Sesja": "T";
+    "ProwNettoKasPL": "11564.51";
+    "ProwBruttoKasPL": "13598.96";
+    "ObrotKasPL": "4525747,57";
+    "ProwNettoTermPL": "3343,51";
+    "ProwBruttoTermPL": "5685,73";
+    "ObrotTerminPL": "2437,61";
+    "ProwNettoKasZagr": "640,95";
+    "ProwBruttoKasZagr": "1049,30";
+    "ObrotKasZagr": "228883,25";
     "KlienciObrotAll": 327,
     "KlienciObrotKasowyPL": 244,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 83,
-    "Akcje": "2634440011,92",
-    "AktywaZagraniczne": "98680574,51",
-    "Obligacje": "68171456,94",
-    "Gotowka": "184628684,66",
-    "Warranty": "0,00",
-    "Kontrakty": "2581450,10",
-    "GotowkaZagraniczna": "13729319,87",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3002231498,01",
+    "Akcje": "2634440011,92";
+    "AktywaZagraniczne": "98680574,51";
+    "Obligacje": "68171456,94";
+    "Gotowka": "184628684,66";
+    "Warranty": "0,00";
+    "Kontrakty": "2581450,10";
+    "GotowkaZagraniczna": "13729319,87";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3002231498,01";
     "LiczbaOtwartychRachunkow": 23169,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 11,
     "Odsetki_Netto": "9977,11"
   },
   {
-    "DataSesji": "2018-12-29",
+    "DataSesji": "2018-12-29";
     "IDCzas": 6572,
     "DzienNumer": 29,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 12,
     "Rok": 2018,
-    "Kwartal": "K4",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K4";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23169,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8345,37"
   },
   {
-    "DataSesji": "2018-12-30",
+    "DataSesji": "2018-12-30";
     "IDCzas": 6573,
     "DzienNumer": 30,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 12,
     "Rok": 2018,
-    "Kwartal": "K4",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K4";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23169,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8345,37"
   },
   {
-    "DataSesji": "2018-12-31",
+    "DataSesji": "2018-12-31";
     "IDCzas": 6574,
     "DzienNumer": 31,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 12,
     "Rok": 2018,
-    "Kwartal": "K4",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "65,48",
-    "ProwBruttoKasZagr": "109,33",
-    "ObrotKasZagr": "22076,30",
+    "Kwartal": "K4";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "65,48";
+    "ProwBruttoKasZagr": "109,33";
+    "ObrotKasZagr": "22076,30";
     "KlienciObrotAll": 1,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 1,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "2633878354,35",
-    "AktywaZagraniczne": "98131137,98",
-    "Obligacje": "68132554,34",
-    "Gotowka": "184548206,82",
-    "Warranty": "0,00",
-    "Kontrakty": "2581450,86",
-    "GotowkaZagraniczna": "15049221,05",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3002320925,42",
+    "Akcje": "2633878354,35";
+    "AktywaZagraniczne": "98131137,98";
+    "Obligacje": "68132554,34";
+    "Gotowka": "184548206,82";
+    "Warranty": "0,00";
+    "Kontrakty": "2581450,86";
+    "GotowkaZagraniczna": "15049221,05";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3002320925,42";
     "LiczbaOtwartychRachunkow": 23161,
     "OtwarcieRachunku": 1,
     "ZamkniecieRachunku": 9,
     "Odsetki_Netto": "7602,49"
   },
   {
-    "DataSesji": "2019-01-01",
+    "DataSesji": "2019-01-01";
     "IDCzas": 6575,
     "DzienNumer": 1,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23160,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "7602,48"
   },
   {
-    "DataSesji": "2019-01-02",
+    "DataSesji": "2019-01-02";
     "IDCzas": 6576,
     "DzienNumer": 2,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "12113.91",
-    "ProwBruttoKasPL": "14335.27",
-    "ObrotKasPL": "4443358,68",
-    "ProwNettoTermPL": "4083,28",
-    "ProwBruttoTermPL": "6760,06",
-    "ObrotTerminPL": "1685,71",
-    "ProwNettoKasZagr": "4017,99",
-    "ProwBruttoKasZagr": "4584,88",
-    "ObrotKasZagr": "1115733,06",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "12113.91";
+    "ProwBruttoKasPL": "14335.27";
+    "ObrotKasPL": "4443358,68";
+    "ProwNettoTermPL": "4083,28";
+    "ProwBruttoTermPL": "6760,06";
+    "ObrotTerminPL": "1685,71";
+    "ProwNettoKasZagr": "4017,99";
+    "ProwBruttoKasZagr": "4584,88";
+    "ObrotKasZagr": "1115733,06";
     "KlienciObrotAll": 343,
     "KlienciObrotKasowyPL": 241,
     "KlienciObrotKasowyZagr": 8,
     "KlienciObrotTerminPL": 101,
-    "Akcje": "2647975445,42",
-    "AktywaZagraniczne": "98163257,04",
-    "Obligacje": "68341457,76",
-    "Gotowka": "182991803,14",
-    "Warranty": "0,00",
-    "Kontrakty": "2833653,13",
-    "GotowkaZagraniczna": "15116966,34",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3015422582,83",
+    "Akcje": "2647975445,42";
+    "AktywaZagraniczne": "98163257,04";
+    "Obligacje": "68341457,76";
+    "Gotowka": "182991803,14";
+    "Warranty": "0,00";
+    "Kontrakty": "2833653,13";
+    "GotowkaZagraniczna": "15116966,34";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3015422582,83";
     "LiczbaOtwartychRachunkow": 23159,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "7529,50"
   },
   {
-    "DataSesji": "2019-01-03",
+    "DataSesji": "2019-01-03";
     "IDCzas": 6577,
     "DzienNumer": 3,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "13083.30",
-    "ProwBruttoKasPL": "15288.32",
-    "ObrotKasPL": "4710347,00",
-    "ProwNettoTermPL": "4318,30",
-    "ProwBruttoTermPL": "7151,48",
-    "ObrotTerminPL": "1724,78",
-    "ProwNettoKasZagr": "799,36",
-    "ProwBruttoKasZagr": "1251,58",
-    "ObrotKasZagr": "262167,04",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "13083.30";
+    "ProwBruttoKasPL": "15288.32";
+    "ObrotKasPL": "4710347,00";
+    "ProwNettoTermPL": "4318,30";
+    "ProwBruttoTermPL": "7151,48";
+    "ObrotTerminPL": "1724,78";
+    "ProwNettoKasZagr": "799,36";
+    "ProwBruttoKasZagr": "1251,58";
+    "ObrotKasZagr": "262167,04";
     "KlienciObrotAll": 363,
     "KlienciObrotKasowyPL": 257,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 107,
-    "Akcje": "2603672357,77",
-    "AktywaZagraniczne": "96685308,44",
-    "Obligacje": "68328064,97",
-    "Gotowka": "182511414,09",
-    "Warranty": "0,00",
-    "Kontrakty": "2904155,36",
-    "GotowkaZagraniczna": "15225528,49",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "2969326829,11",
+    "Akcje": "2603672357,77";
+    "AktywaZagraniczne": "96685308,44";
+    "Obligacje": "68328064,97";
+    "Gotowka": "182511414,09";
+    "Warranty": "0,00";
+    "Kontrakty": "2904155,36";
+    "GotowkaZagraniczna": "15225528,49";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "2969326829,11";
     "LiczbaOtwartychRachunkow": 23159,
     "OtwarcieRachunku": 4,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "7547,35"
   },
   {
-    "DataSesji": "2019-01-04",
+    "DataSesji": "2019-01-04";
     "IDCzas": 6578,
     "DzienNumer": 4,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "14371,29",
-    "ProwBruttoKasPL": "17087,86",
-    "ObrotKasPL": "6455661,82",
-    "ProwNettoTermPL": "3164,93",
-    "ProwBruttoTermPL": "5127,60",
-    "ObrotTerminPL": "1125,66",
-    "ProwNettoKasZagr": "1069,98",
-    "ProwBruttoKasZagr": "1702,60",
-    "ObrotKasZagr": "434716,11",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "14371,29";
+    "ProwBruttoKasPL": "17087,86";
+    "ObrotKasPL": "6455661,82";
+    "ProwNettoTermPL": "3164,93";
+    "ProwBruttoTermPL": "5127,60";
+    "ObrotTerminPL": "1125,66";
+    "ProwNettoKasZagr": "1069,98";
+    "ProwBruttoKasZagr": "1702,60";
+    "ObrotKasZagr": "434716,11";
     "KlienciObrotAll": 350,
     "KlienciObrotKasowyPL": 249,
     "KlienciObrotKasowyZagr": 7,
     "KlienciObrotTerminPL": 102,
-    "Akcje": "2629088236,51",
-    "AktywaZagraniczne": "99605610,05",
-    "Obligacje": "68378887,67",
-    "Gotowka": "182985694,72",
-    "Warranty": "0,00",
-    "Kontrakty": "2829390,29",
-    "GotowkaZagraniczna": "14682246,21",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "2997570065,45",
+    "Akcje": "2629088236,51";
+    "AktywaZagraniczne": "99605610,05";
+    "Obligacje": "68378887,67";
+    "Gotowka": "182985694,72";
+    "Warranty": "0,00";
+    "Kontrakty": "2829390,29";
+    "GotowkaZagraniczna": "14682246,21";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "2997570065,45";
     "LiczbaOtwartychRachunkow": 23154,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 8,
     "Odsetki_Netto": "9608,95"
   },
   {
-    "DataSesji": "2019-01-05",
+    "DataSesji": "2019-01-05";
     "IDCzas": 6579,
     "DzienNumer": 5,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23154,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8271,03"
   },
   {
-    "DataSesji": "2019-01-06",
+    "DataSesji": "2019-01-06";
     "IDCzas": 6580,
     "DzienNumer": 6,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23154,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8271,03"
   },
   {
-    "DataSesji": "2019-01-07",
+    "DataSesji": "2019-01-07";
     "IDCzas": 6581,
     "DzienNumer": 7,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "19242,68",
-    "ProwBruttoKasPL": "22242,15",
-    "ObrotKasPL": "7478355,09",
-    "ProwNettoTermPL": "2920,52",
-    "ProwBruttoTermPL": "4788,25",
-    "ObrotTerminPL": "1374,64",
-    "ProwNettoKasZagr": "3139,39",
-    "ProwBruttoKasZagr": "5142,92",
-    "ObrotKasZagr": "2052938,52",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "19242,68";
+    "ProwBruttoKasPL": "22242,15";
+    "ObrotKasPL": "7478355,09";
+    "ProwNettoTermPL": "2920,52";
+    "ProwBruttoTermPL": "4788,25";
+    "ObrotTerminPL": "1374,64";
+    "ProwNettoKasZagr": "3139,39";
+    "ProwBruttoKasZagr": "5142,92";
+    "ObrotKasZagr": "2052938,52";
     "KlienciObrotAll": 367,
     "KlienciObrotKasowyPL": 271,
     "KlienciObrotKasowyZagr": 8,
     "KlienciObrotTerminPL": 96,
-    "Akcje": "2681710978,50",
-    "AktywaZagraniczne": "100426783,74",
-    "Obligacje": "68310437,98",
-    "Gotowka": "181247010,09",
-    "Warranty": "0,00",
-    "Kontrakty": "2879374,22",
-    "GotowkaZagraniczna": "14634626,86",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3049209211,39",
+    "Akcje": "2681710978,50";
+    "AktywaZagraniczne": "100426783,74";
+    "Obligacje": "68310437,98";
+    "Gotowka": "181247010,09";
+    "Warranty": "0,00";
+    "Kontrakty": "2879374,22";
+    "GotowkaZagraniczna": "14634626,86";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3049209211,39";
     "LiczbaOtwartychRachunkow": 23154,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 3,
     "Odsetki_Netto": "7475,99"
   },
   {
-    "DataSesji": "2019-01-08",
+    "DataSesji": "2019-01-08";
     "IDCzas": 6582,
     "DzienNumer": 8,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "18120,18",
-    "ProwBruttoKasPL": "21100,63",
-    "ObrotKasPL": "7101992,60",
-    "ProwNettoTermPL": "3663,65",
-    "ProwBruttoTermPL": "6137,09",
-    "ObrotTerminPL": "1320,70",
-    "ProwNettoKasZagr": "1738,55",
-    "ProwBruttoKasZagr": "2753,73",
-    "ObrotKasZagr": "1107077,14",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "18120,18";
+    "ProwBruttoKasPL": "21100,63";
+    "ObrotKasPL": "7101992,60";
+    "ProwNettoTermPL": "3663,65";
+    "ProwBruttoTermPL": "6137,09";
+    "ObrotTerminPL": "1320,70";
+    "ProwNettoKasZagr": "1738,55";
+    "ProwBruttoKasZagr": "2753,73";
+    "ObrotKasZagr": "1107077,14";
     "KlienciObrotAll": 364,
     "KlienciObrotKasowyPL": 270,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 96,
-    "Akcje": "2659545557,60",
-    "AktywaZagraniczne": "100324463,21",
-    "Obligacje": "68394541,46",
-    "Gotowka": "180203625,86",
-    "Warranty": "0,00",
-    "Kontrakty": "3122577,34",
-    "GotowkaZagraniczna": "14889806,19",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3026480571,66",
+    "Akcje": "2659545557,60";
+    "AktywaZagraniczne": "100324463,21";
+    "Obligacje": "68394541,46";
+    "Gotowka": "180203625,86";
+    "Warranty": "0,00";
+    "Kontrakty": "3122577,34";
+    "GotowkaZagraniczna": "14889806,19";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3026480571,66";
     "LiczbaOtwartychRachunkow": 23151,
     "OtwarcieRachunku": 6,
     "ZamkniecieRachunku": 8,
     "Odsetki_Netto": "7435,91"
   },
   {
-    "DataSesji": "2019-01-09",
+    "DataSesji": "2019-01-09";
     "IDCzas": 6583,
     "DzienNumer": 9,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "27400,27",
-    "ProwBruttoKasPL": "31445,08",
-    "ObrotKasPL": "11080532,24",
-    "ProwNettoTermPL": "3922,56",
-    "ProwBruttoTermPL": "6579,81",
-    "ObrotTerminPL": "2361,81",
-    "ProwNettoKasZagr": "690,43",
-    "ProwBruttoKasZagr": "1254,21",
-    "ObrotKasZagr": "413467,05",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "27400,27";
+    "ProwBruttoKasPL": "31445,08";
+    "ObrotKasPL": "11080532,24";
+    "ProwNettoTermPL": "3922,56";
+    "ProwBruttoTermPL": "6579,81";
+    "ObrotTerminPL": "2361,81";
+    "ProwNettoKasZagr": "690,43";
+    "ProwBruttoKasZagr": "1254,21";
+    "ObrotKasZagr": "413467,05";
     "KlienciObrotAll": 418,
     "KlienciObrotKasowyPL": 324,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 95,
-    "Akcje": "2685581209,98",
-    "AktywaZagraniczne": "100962225,78",
-    "Obligacje": "68317175,83",
-    "Gotowka": "180810668,07",
-    "Warranty": "0,00",
-    "Kontrakty": "3045587,90",
-    "GotowkaZagraniczna": "12943287,26",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3051660154,82",
+    "Akcje": "2685581209,98";
+    "AktywaZagraniczne": "100962225,78";
+    "Obligacje": "68317175,83";
+    "Gotowka": "180810668,07";
+    "Warranty": "0,00";
+    "Kontrakty": "3045587,90";
+    "GotowkaZagraniczna": "12943287,26";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3051660154,82";
     "LiczbaOtwartychRachunkow": 23149,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "7431,53"
   },
   {
-    "DataSesji": "2019-01-10",
+    "DataSesji": "2019-01-10";
     "IDCzas": 6584,
     "DzienNumer": 10,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "19248,86",
-    "ProwBruttoKasPL": "22907,55",
-    "ObrotKasPL": "8036423,78",
-    "ProwNettoTermPL": "4112,93",
-    "ProwBruttoTermPL": "6859,77",
-    "ObrotTerminPL": "1585,71",
-    "ProwNettoKasZagr": "1106,24",
-    "ProwBruttoKasZagr": "1642,47",
-    "ObrotKasZagr": "453279,29",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "19248,86";
+    "ProwBruttoKasPL": "22907,55";
+    "ObrotKasPL": "8036423,78";
+    "ProwNettoTermPL": "4112,93";
+    "ProwBruttoTermPL": "6859,77";
+    "ObrotTerminPL": "1585,71";
+    "ProwNettoKasZagr": "1106,24";
+    "ProwBruttoKasZagr": "1642,47";
+    "ObrotKasZagr": "453279,29";
     "KlienciObrotAll": 389,
     "KlienciObrotKasowyPL": 293,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 99,
-    "Akcje": "2668562136,25",
-    "AktywaZagraniczne": "102471140,47",
-    "Obligacje": "80753361,32",
-    "Gotowka": "180573574,71",
-    "Warranty": "0,00",
-    "Kontrakty": "3194874,83",
-    "GotowkaZagraniczna": "12586282,69",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3048141370,27",
+    "Akcje": "2668562136,25";
+    "AktywaZagraniczne": "102471140,47";
+    "Obligacje": "80753361,32";
+    "Gotowka": "180573574,71";
+    "Warranty": "0,00";
+    "Kontrakty": "3194874,83";
+    "GotowkaZagraniczna": "12586282,69";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3048141370,27";
     "LiczbaOtwartychRachunkow": 23145,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 7,
     "Odsetki_Netto": "7422,86"
   },
   {
-    "DataSesji": "2019-01-11",
+    "DataSesji": "2019-01-11";
     "IDCzas": 6585,
     "DzienNumer": 11,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "23140,67",
-    "ProwBruttoKasPL": "27149,81",
-    "ObrotKasPL": "9813406,65",
-    "ProwNettoTermPL": "4687,75",
-    "ProwBruttoTermPL": "7833,78",
-    "ObrotTerminPL": "1915,74",
-    "ProwNettoKasZagr": "579,99",
-    "ProwBruttoKasZagr": "1055,79",
-    "ObrotKasZagr": "259718,80",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "23140,67";
+    "ProwBruttoKasPL": "27149,81";
+    "ObrotKasPL": "9813406,65";
+    "ProwNettoTermPL": "4687,75";
+    "ProwBruttoTermPL": "7833,78";
+    "ObrotTerminPL": "1915,74";
+    "ProwNettoKasZagr": "579,99";
+    "ProwBruttoKasZagr": "1055,79";
+    "ObrotKasZagr": "259718,80";
     "KlienciObrotAll": 423,
     "KlienciObrotKasowyPL": 318,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 111,
-    "Akcje": "2666903665,85",
-    "AktywaZagraniczne": "102048428,99",
-    "Obligacje": "80443359,92",
-    "Gotowka": "184806140,83",
-    "Warranty": "0,00",
-    "Kontrakty": "3212654,87",
-    "GotowkaZagraniczna": "12889525,24",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3050303775,70",
+    "Akcje": "2666903665,85";
+    "AktywaZagraniczne": "102048428,99";
+    "Obligacje": "80443359,92";
+    "Gotowka": "184806140,83";
+    "Warranty": "0,00";
+    "Kontrakty": "3212654,87";
+    "GotowkaZagraniczna": "12889525,24";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3050303775,70";
     "LiczbaOtwartychRachunkow": 23142,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 6,
     "Odsetki_Netto": "9388,11"
   },
   {
-    "DataSesji": "2019-01-12",
+    "DataSesji": "2019-01-12";
     "IDCzas": 6586,
     "DzienNumer": 12,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23142,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8353,33"
   },
   {
-    "DataSesji": "2019-01-13",
+    "DataSesji": "2019-01-13";
     "IDCzas": 6587,
     "DzienNumer": 13,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23142,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8353,33"
   },
   {
-    "DataSesji": "2019-01-14",
+    "DataSesji": "2019-01-14";
     "IDCzas": 6588,
     "DzienNumer": 14,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "11680,83",
-    "ProwBruttoKasPL": "13848,64",
-    "ObrotKasPL": "4337516,48",
-    "ProwNettoTermPL": "3127,30",
-    "ProwBruttoTermPL": "5280,20",
-    "ObrotTerminPL": "1925,36",
-    "ProwNettoKasZagr": "274,23",
-    "ProwBruttoKasZagr": "566,98",
-    "ObrotKasZagr": "119946,83",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "11680,83";
+    "ProwBruttoKasPL": "13848,64";
+    "ObrotKasPL": "4337516,48";
+    "ProwNettoTermPL": "3127,30";
+    "ProwBruttoTermPL": "5280,20";
+    "ObrotTerminPL": "1925,36";
+    "ProwNettoKasZagr": "274,23";
+    "ProwBruttoKasZagr": "566,98";
+    "ObrotKasZagr": "119946,83";
     "KlienciObrotAll": 318,
     "KlienciObrotKasowyPL": 234,
     "KlienciObrotKasowyZagr": 4,
     "KlienciObrotTerminPL": 85,
-    "Akcje": "2748271318,79",
-    "AktywaZagraniczne": "101976741,71",
-    "Obligacje": "80450493,33",
-    "Gotowka": "184560400,11",
-    "Warranty": "0,00",
-    "Kontrakty": "3165826,42",
-    "GotowkaZagraniczna": "13197055,59",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3131621835,96",
+    "Akcje": "2748271318,79";
+    "AktywaZagraniczne": "101976741,71";
+    "Obligacje": "80450493,33";
+    "Gotowka": "184560400,11";
+    "Warranty": "0,00";
+    "Kontrakty": "3165826,42";
+    "GotowkaZagraniczna": "13197055,59";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3131621835,96";
     "LiczbaOtwartychRachunkow": 23141,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 3,
     "Odsetki_Netto": "7507,29"
   },
   {
-    "DataSesji": "2019-01-15",
+    "DataSesji": "2019-01-15";
     "IDCzas": 6589,
     "DzienNumer": 15,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "15947,11",
-    "ProwBruttoKasPL": "18902,80",
-    "ObrotKasPL": "5991238,67",
-    "ProwNettoTermPL": "4422,92",
-    "ProwBruttoTermPL": "7304,18",
-    "ObrotTerminPL": "1904,66",
-    "ProwNettoKasZagr": "339,15",
-    "ProwBruttoKasZagr": "750,80",
-    "ObrotKasZagr": "143774,96",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "15947,11";
+    "ProwBruttoKasPL": "18902,80";
+    "ObrotKasPL": "5991238,67";
+    "ProwNettoTermPL": "4422,92";
+    "ProwBruttoTermPL": "7304,18";
+    "ObrotTerminPL": "1904,66";
+    "ProwNettoKasZagr": "339,15";
+    "ProwBruttoKasZagr": "750,80";
+    "ObrotKasZagr": "143774,96";
     "KlienciObrotAll": 349,
     "KlienciObrotKasowyPL": 257,
     "KlienciObrotKasowyZagr": 4,
     "KlienciObrotTerminPL": 94,
-    "Akcje": "2748487301,11",
-    "AktywaZagraniczne": "102130164,54",
-    "Obligacje": "80429130,66",
-    "Gotowka": "186090479,91",
-    "Warranty": "0,00",
-    "Kontrakty": "3371626,46",
-    "GotowkaZagraniczna": "13065154,94",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3133573857,62",
+    "Akcje": "2748487301,11";
+    "AktywaZagraniczne": "102130164,54";
+    "Obligacje": "80429130,66";
+    "Gotowka": "186090479,91";
+    "Warranty": "0,00";
+    "Kontrakty": "3371626,46";
+    "GotowkaZagraniczna": "13065154,94";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3133573857,62";
     "LiczbaOtwartychRachunkow": 23139,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "7577,23"
   },
   {
-    "DataSesji": "2019-01-16",
+    "DataSesji": "2019-01-16";
     "IDCzas": 6590,
     "DzienNumer": 16,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "17766,37",
-    "ProwBruttoKasPL": "20500,20",
-    "ObrotKasPL": "6669353,02",
-    "ProwNettoTermPL": "4245,70",
-    "ProwBruttoTermPL": "7044,09",
-    "ObrotTerminPL": "1541,69",
-    "ProwNettoKasZagr": "818,29",
-    "ProwBruttoKasZagr": "1184,89",
-    "ObrotKasZagr": "318065,29",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "17766,37";
+    "ProwBruttoKasPL": "20500,20";
+    "ObrotKasPL": "6669353,02";
+    "ProwNettoTermPL": "4245,70";
+    "ProwBruttoTermPL": "7044,09";
+    "ObrotTerminPL": "1541,69";
+    "ProwNettoKasZagr": "818,29";
+    "ProwBruttoKasZagr": "1184,89";
+    "ObrotKasZagr": "318065,29";
     "KlienciObrotAll": 374,
     "KlienciObrotKasowyPL": 287,
     "KlienciObrotKasowyZagr": 4,
     "KlienciObrotTerminPL": 90,
-    "Akcje": "2782864494,22",
-    "AktywaZagraniczne": "103202402,03",
-    "Obligacje": "80420149,66",
-    "Gotowka": "185580544,36",
-    "Warranty": "0,00",
-    "Kontrakty": "3612808,94",
-    "GotowkaZagraniczna": "13166675,95",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3168847075,17",
+    "Akcje": "2782864494,22";
+    "AktywaZagraniczne": "103202402,03";
+    "Obligacje": "80420149,66";
+    "Gotowka": "185580544,36";
+    "Warranty": "0,00";
+    "Kontrakty": "3612808,94";
+    "GotowkaZagraniczna": "13166675,95";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3168847075,17";
     "LiczbaOtwartychRachunkow": 23137,
     "OtwarcieRachunku": 5,
     "ZamkniecieRachunku": 6,
     "Odsetki_Netto": "7559,94"
   },
   {
-    "DataSesji": "2019-01-17",
+    "DataSesji": "2019-01-17";
     "IDCzas": 6591,
     "DzienNumer": 17,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "20396,75",
-    "ProwBruttoKasPL": "23495,85",
-    "ObrotKasPL": "7781851,19",
-    "ProwNettoTermPL": "4142,14",
-    "ProwBruttoTermPL": "6824,45",
-    "ObrotTerminPL": "1481,34",
-    "ProwNettoKasZagr": "608,12",
-    "ProwBruttoKasZagr": "987,95",
-    "ObrotKasZagr": "286287,32",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "20396,75";
+    "ProwBruttoKasPL": "23495,85";
+    "ObrotKasPL": "7781851,19";
+    "ProwNettoTermPL": "4142,14";
+    "ProwBruttoTermPL": "6824,45";
+    "ObrotTerminPL": "1481,34";
+    "ProwNettoKasZagr": "608,12";
+    "ProwBruttoKasZagr": "987,95";
+    "ObrotKasZagr": "286287,32";
     "KlienciObrotAll": 370,
     "KlienciObrotKasowyPL": 280,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 93,
-    "Akcje": "2804598083,92",
-    "AktywaZagraniczne": "103384048,72",
-    "Obligacje": "80431834,98",
-    "Gotowka": "186212457,60",
-    "Warranty": "0,00",
-    "Kontrakty": "3471982,87",
-    "GotowkaZagraniczna": "13077759,40",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3191176167,50",
+    "Akcje": "2804598083,92";
+    "AktywaZagraniczne": "103384048,72";
+    "Obligacje": "80431834,98";
+    "Gotowka": "186212457,60";
+    "Warranty": "0,00";
+    "Kontrakty": "3471982,87";
+    "GotowkaZagraniczna": "13077759,40";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3191176167,50";
     "LiczbaOtwartychRachunkow": 23137,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 2,
     "Odsetki_Netto": "7587,72"
   },
   {
-    "DataSesji": "2019-01-18",
+    "DataSesji": "2019-01-18";
     "IDCzas": 6592,
     "DzienNumer": 18,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "16741,57",
-    "ProwBruttoKasPL": "19258,42",
-    "ObrotKasPL": "6100618,92",
-    "ProwNettoTermPL": "4985,01",
-    "ProwBruttoTermPL": "8341,15",
-    "ObrotTerminPL": "1706,12",
-    "ProwNettoKasZagr": "1895,90",
-    "ProwBruttoKasZagr": "3114,41",
-    "ObrotKasZagr": "723296,18",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "16741,57";
+    "ProwBruttoKasPL": "19258,42";
+    "ObrotKasPL": "6100618,92";
+    "ProwNettoTermPL": "4985,01";
+    "ProwBruttoTermPL": "8341,15";
+    "ObrotTerminPL": "1706,12";
+    "ProwNettoKasZagr": "1895,90";
+    "ProwBruttoKasZagr": "3114,41";
+    "ObrotKasZagr": "723296,18";
     "KlienciObrotAll": 370,
     "KlienciObrotKasowyPL": 279,
     "KlienciObrotKasowyZagr": 8,
     "KlienciObrotTerminPL": 92,
-    "Akcje": "2830856129,76",
-    "AktywaZagraniczne": "102553241,46",
-    "Obligacje": "80512829,30",
-    "Gotowka": "187867949,85",
-    "Warranty": "0,00",
-    "Kontrakty": "3027992,31",
-    "GotowkaZagraniczna": "13172879,46",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3217991022,14",
+    "Akcje": "2830856129,76";
+    "AktywaZagraniczne": "102553241,46";
+    "Obligacje": "80512829,30";
+    "Gotowka": "187867949,85";
+    "Warranty": "0,00";
+    "Kontrakty": "3027992,31";
+    "GotowkaZagraniczna": "13172879,46";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3217991022,14";
     "LiczbaOtwartychRachunkow": 23133,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 8,
     "Odsetki_Netto": "9783,68"
   },
   {
-    "DataSesji": "2019-01-19",
+    "DataSesji": "2019-01-19";
     "IDCzas": 6593,
     "DzienNumer": 19,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23133,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8491,74"
   },
   {
-    "DataSesji": "2019-01-20",
+    "DataSesji": "2019-01-20";
     "IDCzas": 6594,
     "DzienNumer": 20,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23133,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8491,74"
   },
   {
-    "DataSesji": "2019-01-21",
+    "DataSesji": "2019-01-21";
     "IDCzas": 6595,
     "DzienNumer": 21,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "8340,19",
-    "ProwBruttoKasPL": "9809,23",
-    "ObrotKasPL": "2942154,12",
-    "ProwNettoTermPL": "2538,87",
-    "ProwBruttoTermPL": "4045,82",
-    "ObrotTerminPL": "848,98",
-    "ProwNettoKasZagr": "283,61",
-    "ProwBruttoKasZagr": "485,33",
-    "ObrotKasZagr": "135621,98",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "8340,19";
+    "ProwBruttoKasPL": "9809,23";
+    "ObrotKasPL": "2942154,12";
+    "ProwNettoTermPL": "2538,87";
+    "ProwBruttoTermPL": "4045,82";
+    "ObrotTerminPL": "848,98";
+    "ProwNettoKasZagr": "283,61";
+    "ProwBruttoKasZagr": "485,33";
+    "ObrotKasZagr": "135621,98";
     "KlienciObrotAll": 307,
     "KlienciObrotKasowyPL": 231,
     "KlienciObrotKasowyZagr": 3,
     "KlienciObrotTerminPL": 80,
-    "Akcje": "2806939392,38",
-    "AktywaZagraniczne": "104127441,73",
-    "Obligacje": "80632628,72",
-    "Gotowka": "188974449,42",
-    "Warranty": "0,00",
-    "Kontrakty": "3190164,90",
-    "GotowkaZagraniczna": "13204249,99",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3197068327,13",
+    "Akcje": "2806939392,38";
+    "AktywaZagraniczne": "104127441,73";
+    "Obligacje": "80632628,72";
+    "Gotowka": "188974449,42";
+    "Warranty": "0,00";
+    "Kontrakty": "3190164,90";
+    "GotowkaZagraniczna": "13204249,99";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3197068327,13";
     "LiczbaOtwartychRachunkow": 23133,
     "OtwarcieRachunku": 5,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "7684,68"
   },
   {
-    "DataSesji": "2019-01-22",
+    "DataSesji": "2019-01-22";
     "IDCzas": 6596,
     "DzienNumer": 22,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "15050,19",
-    "ProwBruttoKasPL": "17739,57",
-    "ObrotKasPL": "6276209,72",
-    "ProwNettoTermPL": "3446,62",
-    "ProwBruttoTermPL": "5737,50",
-    "ObrotTerminPL": "1127,70",
-    "ProwNettoKasZagr": "1095,97",
-    "ProwBruttoKasZagr": "1644,16",
-    "ObrotKasZagr": "356921,28",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "15050,19";
+    "ProwBruttoKasPL": "17739,57";
+    "ObrotKasPL": "6276209,72";
+    "ProwNettoTermPL": "3446,62";
+    "ProwBruttoTermPL": "5737,50";
+    "ObrotTerminPL": "1127,70";
+    "ProwNettoKasZagr": "1095,97";
+    "ProwBruttoKasZagr": "1644,16";
+    "ObrotKasZagr": "356921,28";
     "KlienciObrotAll": 354,
     "KlienciObrotKasowyPL": 272,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 85,
-    "Akcje": "2810582808,46",
-    "AktywaZagraniczne": "103614604,97",
-    "Obligacje": "80566731,67",
-    "Gotowka": "189766849,65",
-    "Warranty": "0,00",
-    "Kontrakty": "3250168,47",
-    "GotowkaZagraniczna": "13979672,22",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3201760835,43",
+    "Akcje": "2810582808,46";
+    "AktywaZagraniczne": "103614604,97";
+    "Obligacje": "80566731,67";
+    "Gotowka": "189766849,65";
+    "Warranty": "0,00";
+    "Kontrakty": "3250168,47";
+    "GotowkaZagraniczna": "13979672,22";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3201760835,43";
     "LiczbaOtwartychRachunkow": 23133,
     "OtwarcieRachunku": 5,
     "ZamkniecieRachunku": 6,
     "Odsetki_Netto": "7766,08"
   },
   {
-    "DataSesji": "2019-01-23",
+    "DataSesji": "2019-01-23";
     "IDCzas": 6597,
     "DzienNumer": 23,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "34545,03",
-    "ProwBruttoKasPL": "38663,97",
-    "ObrotKasPL": "11267503,03",
-    "ProwNettoTermPL": "4910,42",
-    "ProwBruttoTermPL": "7768,05",
-    "ObrotTerminPL": "1631,78",
-    "ProwNettoKasZagr": "690,50",
-    "ProwBruttoKasZagr": "1233,55",
-    "ObrotKasZagr": "273444,35",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "34545,03";
+    "ProwBruttoKasPL": "38663,97";
+    "ObrotKasPL": "11267503,03";
+    "ProwNettoTermPL": "4910,42";
+    "ProwBruttoTermPL": "7768,05";
+    "ObrotTerminPL": "1631,78";
+    "ProwNettoKasZagr": "690,50";
+    "ProwBruttoKasZagr": "1233,55";
+    "ObrotKasZagr": "273444,35";
     "KlienciObrotAll": 448,
     "KlienciObrotKasowyPL": 341,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 113,
-    "Akcje": "2858403014,01",
-    "AktywaZagraniczne": "103377922,00",
-    "Obligacje": "80353801,04",
-    "Gotowka": "188125631,37",
-    "Warranty": "0,00",
-    "Kontrakty": "3957944,15",
-    "GotowkaZagraniczna": "13975794,08",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3248194106,66",
+    "Akcje": "2858403014,01";
+    "AktywaZagraniczne": "103377922,00";
+    "Obligacje": "80353801,04";
+    "Gotowka": "188125631,37";
+    "Warranty": "0,00";
+    "Kontrakty": "3957944,15";
+    "GotowkaZagraniczna": "13975794,08";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3248194106,66";
     "LiczbaOtwartychRachunkow": 23132,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "7668,84"
   },
   {
-    "DataSesji": "2019-01-24",
+    "DataSesji": "2019-01-24";
     "IDCzas": 6598,
     "DzienNumer": 24,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "32096,42",
-    "ProwBruttoKasPL": "37123,65",
-    "ObrotKasPL": "14468762,78",
-    "ProwNettoTermPL": "3939,80",
-    "ProwBruttoTermPL": "6411,05",
-    "ObrotTerminPL": "1500,00",
-    "ProwNettoKasZagr": "375,22",
-    "ProwBruttoKasZagr": "570,04",
-    "ObrotKasZagr": "137649,97",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "32096,42";
+    "ProwBruttoKasPL": "37123,65";
+    "ObrotKasPL": "14468762,78";
+    "ProwNettoTermPL": "3939,80";
+    "ProwBruttoTermPL": "6411,05";
+    "ObrotTerminPL": "1500,00";
+    "ProwNettoKasZagr": "375,22";
+    "ProwBruttoKasZagr": "570,04";
+    "ObrotKasZagr": "137649,97";
     "KlienciObrotAll": 434,
     "KlienciObrotKasowyPL": 334,
     "KlienciObrotKasowyZagr": 3,
     "KlienciObrotTerminPL": 105,
-    "Akcje": "2891503171,83",
-    "AktywaZagraniczne": "103528491,38",
-    "Obligacje": "80422503,60",
-    "Gotowka": "187598398,69",
-    "Warranty": "0,00",
-    "Kontrakty": "3732190,68",
-    "GotowkaZagraniczna": "14105364,52",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3280890120,70",
+    "Akcje": "2891503171,83";
+    "AktywaZagraniczne": "103528491,38";
+    "Obligacje": "80422503,60";
+    "Gotowka": "187598398,69";
+    "Warranty": "0,00";
+    "Kontrakty": "3732190,68";
+    "GotowkaZagraniczna": "14105364,52";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3280890120,70";
     "LiczbaOtwartychRachunkow": 23132,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 3,
     "Odsetki_Netto": "7865,43"
   },
   {
-    "DataSesji": "2019-01-25",
+    "DataSesji": "2019-01-25";
     "IDCzas": 6599,
     "DzienNumer": 25,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "24467,02",
-    "ProwBruttoKasPL": "27979,54",
-    "ObrotKasPL": "10041350,69",
-    "ProwNettoTermPL": "3487,36",
-    "ProwBruttoTermPL": "5751,11",
-    "ObrotTerminPL": "1278,13",
-    "ProwNettoKasZagr": "3497,96",
-    "ProwBruttoKasZagr": "4032,25",
-    "ObrotKasZagr": "1177259,48",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "24467,02";
+    "ProwBruttoKasPL": "27979,54";
+    "ObrotKasPL": "10041350,69";
+    "ProwNettoTermPL": "3487,36";
+    "ProwBruttoTermPL": "5751,11";
+    "ObrotTerminPL": "1278,13";
+    "ProwNettoKasZagr": "3497,96";
+    "ProwBruttoKasZagr": "4032,25";
+    "ObrotKasZagr": "1177259,48";
     "KlienciObrotAll": 374,
     "KlienciObrotKasowyPL": 293,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 86,
-    "Akcje": "2886527805,64",
-    "AktywaZagraniczne": "104625047,57",
-    "Obligacje": "68045038,67",
-    "Gotowka": "192415871,07",
-    "Warranty": "0,00",
-    "Kontrakty": "3767644,39",
-    "GotowkaZagraniczna": "13979722,04",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3269361129,39",
+    "Akcje": "2886527805,64";
+    "AktywaZagraniczne": "104625047,57";
+    "Obligacje": "68045038,67";
+    "Gotowka": "192415871,07";
+    "Warranty": "0,00";
+    "Kontrakty": "3767644,39";
+    "GotowkaZagraniczna": "13979722,04";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3269361129,39";
     "LiczbaOtwartychRachunkow": 23134,
     "OtwarcieRachunku": 4,
     "ZamkniecieRachunku": 3,
     "Odsetki_Netto": "10797,63"
   },
   {
-    "DataSesji": "2019-01-26",
+    "DataSesji": "2019-01-26";
     "IDCzas": 6600,
     "DzienNumer": 26,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23134,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8697,33"
   },
   {
-    "DataSesji": "2019-01-27",
+    "DataSesji": "2019-01-27";
     "IDCzas": 6601,
     "DzienNumer": 27,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23134,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8697,33"
   },
   {
-    "DataSesji": "2019-01-28",
+    "DataSesji": "2019-01-28";
     "IDCzas": 6602,
     "DzienNumer": 28,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "24845,03",
-    "ProwBruttoKasPL": "28992,04",
-    "ObrotKasPL": "11151975,65",
-    "ProwNettoTermPL": "3940,65",
-    "ProwBruttoTermPL": "6409,26",
-    "ObrotTerminPL": "3126,53",
-    "ProwNettoKasZagr": "1036,35",
-    "ProwBruttoKasZagr": "1756,58",
-    "ObrotKasZagr": "546743,21",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "24845,03";
+    "ProwBruttoKasPL": "28992,04";
+    "ObrotKasPL": "11151975,65";
+    "ProwNettoTermPL": "3940,65";
+    "ProwBruttoTermPL": "6409,26";
+    "ObrotTerminPL": "3126,53";
+    "ProwNettoKasZagr": "1036,35";
+    "ProwBruttoKasZagr": "1756,58";
+    "ObrotKasZagr": "546743,21";
     "KlienciObrotAll": 421,
     "KlienciObrotKasowyPL": 321,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 103,
-    "Akcje": "2850515743,41",
-    "AktywaZagraniczne": "104202837,26",
-    "Obligacje": "68041011,98",
-    "Gotowka": "198731590,17",
-    "Warranty": "0,00",
-    "Kontrakty": "3637179,90",
-    "GotowkaZagraniczna": "13866908,15",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3238995270,87",
+    "Akcje": "2850515743,41";
+    "AktywaZagraniczne": "104202837,26";
+    "Obligacje": "68041011,98";
+    "Gotowka": "198731590,17";
+    "Warranty": "0,00";
+    "Kontrakty": "3637179,90";
+    "GotowkaZagraniczna": "13866908,15";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3238995270,87";
     "LiczbaOtwartychRachunkow": 23131,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "8316,88"
   },
   {
-    "DataSesji": "2019-01-29",
+    "DataSesji": "2019-01-29";
     "IDCzas": 6603,
     "DzienNumer": 29,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "30173,67",
-    "ProwBruttoKasPL": "34174,75",
-    "ObrotKasPL": "11203135,70",
-    "ProwNettoTermPL": "3461,77",
-    "ProwBruttoTermPL": "5653,21",
-    "ObrotTerminPL": "1164,14",
-    "ProwNettoKasZagr": "549,05",
-    "ProwBruttoKasZagr": "770,66",
-    "ObrotKasZagr": "173211,51",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "30173,67";
+    "ProwBruttoKasPL": "34174,75";
+    "ObrotKasPL": "11203135,70";
+    "ProwNettoTermPL": "3461,77";
+    "ProwBruttoTermPL": "5653,21";
+    "ObrotTerminPL": "1164,14";
+    "ProwNettoKasZagr": "549,05";
+    "ProwBruttoKasZagr": "770,66";
+    "ObrotKasZagr": "173211,51";
     "KlienciObrotAll": 415,
     "KlienciObrotKasowyPL": 332,
     "KlienciObrotKasowyZagr": 3,
     "KlienciObrotTerminPL": 89,
-    "Akcje": "2820308301,97",
-    "AktywaZagraniczne": "103087827,64",
-    "Obligacje": "68064878,27",
-    "Gotowka": "198432333,13",
-    "Warranty": "0,00",
-    "Kontrakty": "3649303,91",
-    "GotowkaZagraniczna": "14789594,61",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3208332239,53",
+    "Akcje": "2820308301,97";
+    "AktywaZagraniczne": "103087827,64";
+    "Obligacje": "68064878,27";
+    "Gotowka": "198432333,13";
+    "Warranty": "0,00";
+    "Kontrakty": "3649303,91";
+    "GotowkaZagraniczna": "14789594,61";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3208332239,53";
     "LiczbaOtwartychRachunkow": 23126,
     "OtwarcieRachunku": 1,
     "ZamkniecieRachunku": 7,
     "Odsetki_Netto": "8359,59"
   },
   {
-    "DataSesji": "2019-01-30",
+    "DataSesji": "2019-01-30";
     "IDCzas": 6604,
     "DzienNumer": 30,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "25467,41",
-    "ProwBruttoKasPL": "29392,36",
-    "ObrotKasPL": "10507571,04",
-    "ProwNettoTermPL": "3886,32",
-    "ProwBruttoTermPL": "6400,01",
-    "ObrotTerminPL": "1488,63",
-    "ProwNettoKasZagr": "1802,04",
-    "ProwBruttoKasZagr": "2851,24",
-    "ObrotKasZagr": "888705,19",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "25467,41";
+    "ProwBruttoKasPL": "29392,36";
+    "ObrotKasPL": "10507571,04";
+    "ProwNettoTermPL": "3886,32";
+    "ProwBruttoTermPL": "6400,01";
+    "ObrotTerminPL": "1488,63";
+    "ProwNettoKasZagr": "1802,04";
+    "ProwBruttoKasZagr": "2851,24";
+    "ObrotKasZagr": "888705,19";
     "KlienciObrotAll": 425,
     "KlienciObrotKasowyPL": 337,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 91,
-    "Akcje": "2815131657,32",
-    "AktywaZagraniczne": "103789664,17",
-    "Obligacje": "68062723,00",
-    "Gotowka": "194582995,13",
-    "Warranty": "0,00",
-    "Kontrakty": "3611244,97",
-    "GotowkaZagraniczna": "14294801,96",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3199473086,54",
+    "Akcje": "2815131657,32";
+    "AktywaZagraniczne": "103789664,17";
+    "Obligacje": "68062723,00";
+    "Gotowka": "194582995,13";
+    "Warranty": "0,00";
+    "Kontrakty": "3611244,97";
+    "GotowkaZagraniczna": "14294801,96";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3199473086,54";
     "LiczbaOtwartychRachunkow": 23124,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 5,
     "Odsetki_Netto": "8186,75"
   },
   {
-    "DataSesji": "2019-01-31",
+    "DataSesji": "2019-01-31";
     "IDCzas": 6605,
     "DzienNumer": 31,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 1,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "21454,32",
-    "ProwBruttoKasPL": "24816,65",
-    "ObrotKasPL": "8753734,03",
-    "ProwNettoTermPL": "4092,80",
-    "ProwBruttoTermPL": "6630,15",
-    "ObrotTerminPL": "1802,92",
-    "ProwNettoKasZagr": "515,31",
-    "ProwBruttoKasZagr": "898,48",
-    "ObrotKasZagr": "226159,67",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "21454,32";
+    "ProwBruttoKasPL": "24816,65";
+    "ObrotKasPL": "8753734,03";
+    "ProwNettoTermPL": "4092,80";
+    "ProwBruttoTermPL": "6630,15";
+    "ObrotTerminPL": "1802,92";
+    "ProwNettoKasZagr": "515,31";
+    "ProwBruttoKasZagr": "898,48";
+    "ObrotKasZagr": "226159,67";
     "KlienciObrotAll": 400,
     "KlienciObrotKasowyPL": 304,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 100,
-    "Akcje": "2858804247,36",
-    "AktywaZagraniczne": "104121384,06",
-    "Obligacje": "68062080,45",
-    "Gotowka": "200444409,02",
-    "Warranty": "0,00",
-    "Kontrakty": "3616482,56",
-    "GotowkaZagraniczna": "14296169,08",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3249344772,53",
+    "Akcje": "2858804247,36";
+    "AktywaZagraniczne": "104121384,06";
+    "Obligacje": "68062080,45";
+    "Gotowka": "200444409,02";
+    "Warranty": "0,00";
+    "Kontrakty": "3616482,56";
+    "GotowkaZagraniczna": "14296169,08";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3249344772,53";
     "LiczbaOtwartychRachunkow": 23120,
     "OtwarcieRachunku": 1,
     "ZamkniecieRachunku": 5,
     "Odsetki_Netto": "8164,58"
   },
   {
-    "DataSesji": "2019-02-01",
+    "DataSesji": "2019-02-01";
     "IDCzas": 6606,
     "DzienNumer": 1,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "18296,62",
-    "ProwBruttoKasPL": "20968,68",
-    "ObrotKasPL": "6522703,65",
-    "ProwNettoTermPL": "2945,64",
-    "ProwBruttoTermPL": "4891,43",
-    "ObrotTerminPL": "1576,09",
-    "ProwNettoKasZagr": "560,93",
-    "ProwBruttoKasZagr": "859,66",
-    "ObrotKasZagr": "276205,46",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "18296,62";
+    "ProwBruttoKasPL": "20968,68";
+    "ObrotKasPL": "6522703,65";
+    "ProwNettoTermPL": "2945,64";
+    "ProwBruttoTermPL": "4891,43";
+    "ObrotTerminPL": "1576,09";
+    "ProwNettoKasZagr": "560,93";
+    "ProwBruttoKasZagr": "859,66";
+    "ObrotKasZagr": "276205,46";
     "KlienciObrotAll": 369,
     "KlienciObrotKasowyPL": 292,
     "KlienciObrotKasowyZagr": 4,
     "KlienciObrotTerminPL": 82,
-    "Akcje": "2871180347,83",
-    "AktywaZagraniczne": "102933839,41",
-    "Obligacje": "68112349,15",
-    "Gotowka": "196875691,41",
-    "Warranty": "0,00",
-    "Kontrakty": "3549496,49",
-    "GotowkaZagraniczna": "14885890,70",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3257537614,98",
+    "Akcje": "2871180347,83";
+    "AktywaZagraniczne": "102933839,41";
+    "Obligacje": "68112349,15";
+    "Gotowka": "196875691,41";
+    "Warranty": "0,00";
+    "Kontrakty": "3549496,49";
+    "GotowkaZagraniczna": "14885890,70";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3257537614,98";
     "LiczbaOtwartychRachunkow": 23115,
     "OtwarcieRachunku": 1,
     "ZamkniecieRachunku": 6,
     "Odsetki_Netto": "10350,76"
   },
   {
-    "DataSesji": "2019-02-02",
+    "DataSesji": "2019-02-02";
     "IDCzas": 6607,
     "DzienNumer": 2,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23116,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8898,94"
   },
   {
-    "DataSesji": "2019-02-03",
+    "DataSesji": "2019-02-03";
     "IDCzas": 6608,
     "DzienNumer": 3,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23116,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8898,94"
   },
   {
-    "DataSesji": "2019-02-04",
+    "DataSesji": "2019-02-04";
     "IDCzas": 6609,
     "DzienNumer": 4,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "26385,25",
-    "ProwBruttoKasPL": "30062,86",
-    "ObrotKasPL": "9557616,15",
-    "ProwNettoTermPL": "4430,66",
-    "ProwBruttoTermPL": "7342,92",
-    "ObrotTerminPL": "1432,65",
-    "ProwNettoKasZagr": "455,76",
-    "ProwBruttoKasZagr": "877,59",
-    "ObrotKasZagr": "215879,49",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "26385,25";
+    "ProwBruttoKasPL": "30062,86";
+    "ObrotKasPL": "9557616,15";
+    "ProwNettoTermPL": "4430,66";
+    "ProwBruttoTermPL": "7342,92";
+    "ObrotTerminPL": "1432,65";
+    "ProwNettoKasZagr": "455,76";
+    "ProwBruttoKasZagr": "877,59";
+    "ObrotKasZagr": "215879,49";
     "KlienciObrotAll": 450,
     "KlienciObrotKasowyPL": 361,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 93,
-    "Akcje": "2873016732,59",
-    "AktywaZagraniczne": "103148303,47",
-    "Obligacje": "68063413,89",
-    "Gotowka": "196774063,89",
-    "Warranty": "0,00",
-    "Kontrakty": "3575647,70",
-    "GotowkaZagraniczna": "14861354,48",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3259439516,02",
+    "Akcje": "2873016732,59";
+    "AktywaZagraniczne": "103148303,47";
+    "Obligacje": "68063413,89";
+    "Gotowka": "196774063,89";
+    "Warranty": "0,00";
+    "Kontrakty": "3575647,70";
+    "GotowkaZagraniczna": "14861354,48";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3259439516,02";
     "LiczbaOtwartychRachunkow": 23115,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 3,
     "Odsetki_Netto": "7950,92"
   },
   {
-    "DataSesji": "2019-02-05",
+    "DataSesji": "2019-02-05";
     "IDCzas": 6610,
     "DzienNumer": 5,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "28828,49",
-    "ProwBruttoKasPL": "32914,09",
-    "ObrotKasPL": "10752652,70",
-    "ProwNettoTermPL": "3441,84",
-    "ProwBruttoTermPL": "5783,68",
-    "ObrotTerminPL": "1698,83",
-    "ProwNettoKasZagr": "740,27",
-    "ProwBruttoKasZagr": "1138,60",
-    "ObrotKasZagr": "300382,94",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "28828,49";
+    "ProwBruttoKasPL": "32914,09";
+    "ObrotKasPL": "10752652,70";
+    "ProwNettoTermPL": "3441,84";
+    "ProwBruttoTermPL": "5783,68";
+    "ObrotTerminPL": "1698,83";
+    "ProwNettoKasZagr": "740,27";
+    "ProwBruttoKasZagr": "1138,60";
+    "ObrotKasZagr": "300382,94";
     "KlienciObrotAll": 466,
     "KlienciObrotKasowyPL": 370,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 100,
-    "Akcje": "2886376150,80",
-    "AktywaZagraniczne": "104352266,68",
-    "Obligacje": "68089889,13",
-    "Gotowka": "196804212,75",
-    "Warranty": "0,00",
-    "Kontrakty": "3646101,59",
-    "GotowkaZagraniczna": "14724576,91",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3273993197,87",
+    "Akcje": "2886376150,80";
+    "AktywaZagraniczne": "104352266,68";
+    "Obligacje": "68089889,13";
+    "Gotowka": "196804212,75";
+    "Warranty": "0,00";
+    "Kontrakty": "3646101,59";
+    "GotowkaZagraniczna": "14724576,91";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3273993197,87";
     "LiczbaOtwartychRachunkow": 23113,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 6,
     "Odsetki_Netto": "7943,12"
   },
   {
-    "DataSesji": "2019-02-06",
+    "DataSesji": "2019-02-06";
     "IDCzas": 6611,
     "DzienNumer": 6,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "25771,34",
-    "ProwBruttoKasPL": "29524,83",
-    "ObrotKasPL": "9517763,10",
-    "ProwNettoTermPL": "4886,29",
-    "ProwBruttoTermPL": "8321,56",
-    "ObrotTerminPL": "4355,10",
-    "ProwNettoKasZagr": "3156,18",
-    "ProwBruttoKasZagr": "3782,28",
-    "ObrotKasZagr": "977331,07",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "25771,34";
+    "ProwBruttoKasPL": "29524,83";
+    "ObrotKasPL": "9517763,10";
+    "ProwNettoTermPL": "4886,29";
+    "ProwBruttoTermPL": "8321,56";
+    "ObrotTerminPL": "4355,10";
+    "ProwNettoKasZagr": "3156,18";
+    "ProwBruttoKasZagr": "3782,28";
+    "ObrotKasZagr": "977331,07";
     "KlienciObrotAll": 452,
     "KlienciObrotKasowyPL": 356,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 101,
-    "Akcje": "2876467414,47",
-    "AktywaZagraniczne": "101700522,26",
-    "Obligacje": "68198779,41",
-    "Gotowka": "198052661,23",
-    "Warranty": "0,00",
-    "Kontrakty": "3753785,71",
-    "GotowkaZagraniczna": "14807943,47",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3262981106,56",
+    "Akcje": "2876467414,47";
+    "AktywaZagraniczne": "101700522,26";
+    "Obligacje": "68198779,41";
+    "Gotowka": "198052661,23";
+    "Warranty": "0,00";
+    "Kontrakty": "3753785,71";
+    "GotowkaZagraniczna": "14807943,47";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3262981106,56";
     "LiczbaOtwartychRachunkow": 23107,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 8,
     "Odsetki_Netto": "8001,16"
   },
   {
-    "DataSesji": "2019-02-07",
+    "DataSesji": "2019-02-07";
     "IDCzas": 6612,
     "DzienNumer": 7,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "28386,67",
-    "ProwBruttoKasPL": "32655,60",
-    "ObrotKasPL": "11202991,16",
-    "ProwNettoTermPL": "4624,14",
-    "ProwBruttoTermPL": "7314,43",
-    "ObrotTerminPL": "1878,43",
-    "ProwNettoKasZagr": "1231,45",
-    "ProwBruttoKasZagr": "1748,67",
-    "ObrotKasZagr": "439642,63",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "28386,67";
+    "ProwBruttoKasPL": "32655,60";
+    "ObrotKasPL": "11202991,16";
+    "ProwNettoTermPL": "4624,14";
+    "ProwBruttoTermPL": "7314,43";
+    "ObrotTerminPL": "1878,43";
+    "ProwNettoKasZagr": "1231,45";
+    "ProwBruttoKasZagr": "1748,67";
+    "ObrotKasZagr": "439642,63";
     "KlienciObrotAll": 489,
     "KlienciObrotKasowyPL": 379,
     "KlienciObrotKasowyZagr": 7,
     "KlienciObrotTerminPL": 113,
-    "Akcje": "2852108908,69",
-    "AktywaZagraniczne": "100860795,70",
-    "Obligacje": "68091535,65",
-    "Gotowka": "196775708,64",
-    "Warranty": "0,00",
-    "Kontrakty": "3565960,47",
-    "GotowkaZagraniczna": "14839680,92",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3236242590,08",
+    "Akcje": "2852108908,69";
+    "AktywaZagraniczne": "100860795,70";
+    "Obligacje": "68091535,65";
+    "Gotowka": "196775708,64";
+    "Warranty": "0,00";
+    "Kontrakty": "3565960,47";
+    "GotowkaZagraniczna": "14839680,92";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3236242590,08";
     "LiczbaOtwartychRachunkow": 23106,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "7938,62"
   },
   {
-    "DataSesji": "2019-02-08",
+    "DataSesji": "2019-02-08";
     "IDCzas": 6613,
     "DzienNumer": 8,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "34307,61",
-    "ProwBruttoKasPL": "39282,52",
-    "ObrotKasPL": "13508684,64",
-    "ProwNettoTermPL": "3299,28",
-    "ProwBruttoTermPL": "5234,38",
-    "ObrotTerminPL": "1699,42",
-    "ProwNettoKasZagr": "539,19",
-    "ProwBruttoKasZagr": "987,76",
-    "ObrotKasZagr": "241167,62",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "34307,61";
+    "ProwBruttoKasPL": "39282,52";
+    "ObrotKasPL": "13508684,64";
+    "ProwNettoTermPL": "3299,28";
+    "ProwBruttoTermPL": "5234,38";
+    "ObrotTerminPL": "1699,42";
+    "ProwNettoKasZagr": "539,19";
+    "ProwBruttoKasZagr": "987,76";
+    "ObrotKasZagr": "241167,62";
     "KlienciObrotAll": 503,
     "KlienciObrotKasowyPL": 406,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 99,
-    "Akcje": "2842248980,11",
-    "AktywaZagraniczne": "101147899,51",
-    "Obligacje": "68143673,41",
-    "Gotowka": "197474813,26",
-    "Warranty": "0,00",
-    "Kontrakty": "3338067,95",
-    "GotowkaZagraniczna": "14900896,72",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3227254330,96",
+    "Akcje": "2842248980,11";
+    "AktywaZagraniczne": "101147899,51";
+    "Obligacje": "68143673,41";
+    "Gotowka": "197474813,26";
+    "Warranty": "0,00";
+    "Kontrakty": "3338067,95";
+    "GotowkaZagraniczna": "14900896,72";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3227254330,96";
     "LiczbaOtwartychRachunkow": 23103,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 5,
     "Odsetki_Netto": "10204,11"
   },
   {
-    "DataSesji": "2019-02-09",
+    "DataSesji": "2019-02-09";
     "IDCzas": 6614,
     "DzienNumer": 9,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23103,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8926,03"
   },
   {
-    "DataSesji": "2019-02-10",
+    "DataSesji": "2019-02-10";
     "IDCzas": 6615,
     "DzienNumer": 10,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23103,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8926,03"
   },
   {
-    "DataSesji": "2019-02-11",
+    "DataSesji": "2019-02-11";
     "IDCzas": 6616,
     "DzienNumer": 11,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "37705,68",
-    "ProwBruttoKasPL": "42877,07",
-    "ObrotKasPL": "13405184,05",
-    "ProwNettoTermPL": "3158,11",
-    "ProwBruttoTermPL": "5177,97",
-    "ObrotTerminPL": "1587,17",
-    "ProwNettoKasZagr": "296,90",
-    "ProwBruttoKasZagr": "494,33",
-    "ObrotKasZagr": "125375,96",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "37705,68";
+    "ProwBruttoKasPL": "42877,07";
+    "ObrotKasPL": "13405184,05";
+    "ProwNettoTermPL": "3158,11";
+    "ProwBruttoTermPL": "5177,97";
+    "ObrotTerminPL": "1587,17";
+    "ProwNettoKasZagr": "296,90";
+    "ProwBruttoKasZagr": "494,33";
+    "ObrotKasZagr": "125375,96";
     "KlienciObrotAll": 522,
     "KlienciObrotKasowyPL": 431,
     "KlienciObrotKasowyZagr": 3,
     "KlienciObrotTerminPL": 99,
-    "Akcje": "2845189672,90",
-    "AktywaZagraniczne": "101427641,18",
-    "Obligacje": "68157761,78",
-    "Gotowka": "197672166,53",
-    "Warranty": "0,00",
-    "Kontrakty": "3440795,25",
-    "GotowkaZagraniczna": "15005298,49",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3230893336,13",
+    "Akcje": "2845189672,90";
+    "AktywaZagraniczne": "101427641,18";
+    "Obligacje": "68157761,78";
+    "Gotowka": "197672166,53";
+    "Warranty": "0,00";
+    "Kontrakty": "3440795,25";
+    "GotowkaZagraniczna": "15005298,49";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3230893336,13";
     "LiczbaOtwartychRachunkow": 23104,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 3,
     "Odsetki_Netto": "8006,73"
   },
   {
-    "DataSesji": "2019-02-12",
+    "DataSesji": "2019-02-12";
     "IDCzas": 6617,
     "DzienNumer": 12,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "28400,73",
-    "ProwBruttoKasPL": "32690,46",
-    "ObrotKasPL": "11064298,67",
-    "ProwNettoTermPL": "3507,91",
-    "ProwBruttoTermPL": "5838,76",
-    "ObrotTerminPL": "1784,55",
-    "ProwNettoKasZagr": "308,98",
-    "ProwBruttoKasZagr": "683,70",
-    "ObrotKasZagr": "160260,06",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "28400,73";
+    "ProwBruttoKasPL": "32690,46";
+    "ObrotKasPL": "11064298,67";
+    "ProwNettoTermPL": "3507,91";
+    "ProwBruttoTermPL": "5838,76";
+    "ObrotTerminPL": "1784,55";
+    "ProwNettoKasZagr": "308,98";
+    "ProwBruttoKasZagr": "683,70";
+    "ObrotKasZagr": "160260,06";
     "KlienciObrotAll": 431,
     "KlienciObrotKasowyPL": 342,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 94,
-    "Akcje": "2847261234,20",
-    "AktywaZagraniczne": "102187185,47",
-    "Obligacje": "68197837,85",
-    "Gotowka": "194262114,96",
-    "Warranty": "0,00",
-    "Kontrakty": "3459091,11",
-    "GotowkaZagraniczna": "14768192,49",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3230135656,09",
+    "Akcje": "2847261234,20";
+    "AktywaZagraniczne": "102187185,47";
+    "Obligacje": "68197837,85";
+    "Gotowka": "194262114,96";
+    "Warranty": "0,00";
+    "Kontrakty": "3459091,11";
+    "GotowkaZagraniczna": "14768192,49";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3230135656,09";
     "LiczbaOtwartychRachunkow": 23101,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 5,
     "Odsetki_Netto": "7838,34"
   },
   {
-    "DataSesji": "2019-02-13",
+    "DataSesji": "2019-02-13";
     "IDCzas": 6618,
     "DzienNumer": 13,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "21033,42",
-    "ProwBruttoKasPL": "24226,29",
-    "ObrotKasPL": "7814682,52",
-    "ProwNettoTermPL": "4065,85",
-    "ProwBruttoTermPL": "6814,76",
-    "ObrotTerminPL": "1900,00",
-    "ProwNettoKasZagr": "444,85",
-    "ProwBruttoKasZagr": "767,18",
-    "ObrotKasZagr": "190892,36",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "21033,42";
+    "ProwBruttoKasPL": "24226,29";
+    "ObrotKasPL": "7814682,52";
+    "ProwNettoTermPL": "4065,85";
+    "ProwBruttoTermPL": "6814,76";
+    "ObrotTerminPL": "1900,00";
+    "ProwNettoKasZagr": "444,85";
+    "ProwBruttoKasZagr": "767,18";
+    "ObrotKasZagr": "190892,36";
     "KlienciObrotAll": 431,
     "KlienciObrotKasowyPL": 331,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 106,
-    "Akcje": "2800528132,17",
-    "AktywaZagraniczne": "102756171,90",
-    "Obligacje": "72535597,01",
-    "Gotowka": "193139207,61",
-    "Warranty": "0,00",
-    "Kontrakty": "3576781,06",
-    "GotowkaZagraniczna": "14671703,16",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3187207592,91",
+    "Akcje": "2800528132,17";
+    "AktywaZagraniczne": "102756171,90";
+    "Obligacje": "72535597,01";
+    "Gotowka": "193139207,61";
+    "Warranty": "0,00";
+    "Kontrakty": "3576781,06";
+    "GotowkaZagraniczna": "14671703,16";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3187207592,91";
     "LiczbaOtwartychRachunkow": 23101,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 3,
     "Odsetki_Netto": "7783,98"
   },
   {
-    "DataSesji": "2019-02-14",
+    "DataSesji": "2019-02-14";
     "IDCzas": 6619,
     "DzienNumer": 14,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "19865,15",
-    "ProwBruttoKasPL": "23065,28",
-    "ObrotKasPL": "7755538,53",
-    "ProwNettoTermPL": "5131,52",
-    "ProwBruttoTermPL": "8749,40",
-    "ObrotTerminPL": "3126,82",
-    "ProwNettoKasZagr": "1361,30",
-    "ProwBruttoKasZagr": "2206,83",
-    "ObrotKasZagr": "610207,84",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "19865,15";
+    "ProwBruttoKasPL": "23065,28";
+    "ObrotKasPL": "7755538,53";
+    "ProwNettoTermPL": "5131,52";
+    "ProwBruttoTermPL": "8749,40";
+    "ObrotTerminPL": "3126,82";
+    "ProwNettoKasZagr": "1361,30";
+    "ProwBruttoKasZagr": "2206,83";
+    "ObrotKasZagr": "610207,84";
     "KlienciObrotAll": 424,
     "KlienciObrotKasowyPL": 324,
     "KlienciObrotKasowyZagr": 7,
     "KlienciObrotTerminPL": 102,
-    "Akcje": "2768508542,81",
-    "AktywaZagraniczne": "102489167,72",
-    "Obligacje": "72535048,29",
-    "Gotowka": "190046432,38",
-    "Warranty": "0,00",
-    "Kontrakty": "3612139,44",
-    "GotowkaZagraniczna": "14761424,85",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3151952755,51",
+    "Akcje": "2768508542,81";
+    "AktywaZagraniczne": "102489167,72";
+    "Obligacje": "72535048,29";
+    "Gotowka": "190046432,38";
+    "Warranty": "0,00";
+    "Kontrakty": "3612139,44";
+    "GotowkaZagraniczna": "14761424,85";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3151952755,51";
     "LiczbaOtwartychRachunkow": 23101,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 2,
     "Odsetki_Netto": "7651,56"
   },
   {
-    "DataSesji": "2019-02-15",
+    "DataSesji": "2019-02-15";
     "IDCzas": 6620,
     "DzienNumer": 15,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "15923,20",
-    "ProwBruttoKasPL": "18504,55",
-    "ObrotKasPL": "5936134,48",
-    "ProwNettoTermPL": "3531,82",
-    "ProwBruttoTermPL": "5823,02",
-    "ObrotTerminPL": "1676,97",
-    "ProwNettoKasZagr": "1099,23",
-    "ProwBruttoKasZagr": "1633,07",
-    "ObrotKasZagr": "495413,55",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "15923,20";
+    "ProwBruttoKasPL": "18504,55";
+    "ObrotKasPL": "5936134,48";
+    "ProwNettoTermPL": "3531,82";
+    "ProwBruttoTermPL": "5823,02";
+    "ObrotTerminPL": "1676,97";
+    "ProwNettoKasZagr": "1099,23";
+    "ProwBruttoKasZagr": "1633,07";
+    "ObrotKasZagr": "495413,55";
     "KlienciObrotAll": 401,
     "KlienciObrotKasowyPL": 303,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 101,
-    "Akcje": "2792666440,11",
-    "AktywaZagraniczne": "102696122,16",
-    "Obligacje": "72595155,56",
-    "Gotowka": "187561354,76",
-    "Warranty": "0,00",
-    "Kontrakty": "3782391,19",
-    "GotowkaZagraniczna": "14639015,75",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3173940479,54",
+    "Akcje": "2792666440,11";
+    "AktywaZagraniczne": "102696122,16";
+    "Obligacje": "72595155,56";
+    "Gotowka": "187561354,76";
+    "Warranty": "0,00";
+    "Kontrakty": "3782391,19";
+    "GotowkaZagraniczna": "14639015,75";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3173940479,54";
     "LiczbaOtwartychRachunkow": 23099,
     "OtwarcieRachunku": 1,
     "ZamkniecieRachunku": 4,
     "Odsetki_Netto": "9534,63"
   },
   {
-    "DataSesji": "2019-02-16",
+    "DataSesji": "2019-02-16";
     "IDCzas": 6621,
     "DzienNumer": 16,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23099,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8477,88"
   },
   {
-    "DataSesji": "2019-02-17",
+    "DataSesji": "2019-02-17";
     "IDCzas": 6622,
     "DzienNumer": 17,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23099,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8477,88"
   },
   {
-    "DataSesji": "2019-02-18",
+    "DataSesji": "2019-02-18";
     "IDCzas": 6623,
     "DzienNumer": 18,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "18699,60",
-    "ProwBruttoKasPL": "21567,08",
-    "ObrotKasPL": "6834441,83",
-    "ProwNettoTermPL": "2492,14",
-    "ProwBruttoTermPL": "4041,17",
-    "ObrotTerminPL": "1456,27",
-    "ProwNettoKasZagr": "300,74",
-    "ProwBruttoKasZagr": "454,39",
-    "ObrotKasZagr": "96526,31",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "18699,60";
+    "ProwBruttoKasPL": "21567,08";
+    "ObrotKasPL": "6834441,83";
+    "ProwNettoTermPL": "2492,14";
+    "ProwBruttoTermPL": "4041,17";
+    "ObrotTerminPL": "1456,27";
+    "ProwNettoKasZagr": "300,74";
+    "ProwBruttoKasZagr": "454,39";
+    "ObrotKasZagr": "96526,31";
     "KlienciObrotAll": 382,
     "KlienciObrotKasowyPL": 304,
     "KlienciObrotKasowyZagr": 3,
     "KlienciObrotTerminPL": 80,
-    "Akcje": "2795357041,32",
-    "AktywaZagraniczne": "103579523,41",
-    "Obligacje": "72683649,87",
-    "Gotowka": "186544069,08",
-    "Warranty": "0,00",
-    "Kontrakty": "3545526,80",
-    "GotowkaZagraniczna": "14216312,97",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3175926123,44",
+    "Akcje": "2795357041,32";
+    "AktywaZagraniczne": "103579523,41";
+    "Obligacje": "72683649,87";
+    "Gotowka": "186544069,08";
+    "Warranty": "0,00";
+    "Kontrakty": "3545526,80";
+    "GotowkaZagraniczna": "14216312,97";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3175926123,44";
     "LiczbaOtwartychRachunkow": 23097,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 5,
     "Odsetki_Netto": "7503,88"
   },
   {
-    "DataSesji": "2019-02-19",
+    "DataSesji": "2019-02-19";
     "IDCzas": 6624,
     "DzienNumer": 19,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "18969,05",
-    "ProwBruttoKasPL": "21961,34",
-    "ObrotKasPL": "7124978,29",
-    "ProwNettoTermPL": "3222,09",
-    "ProwBruttoTermPL": "5521,42",
-    "ObrotTerminPL": "1546,36",
-    "ProwNettoKasZagr": "1779,30",
-    "ProwBruttoKasZagr": "3330,84",
-    "ObrotKasZagr": "1276695,59",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "18969,05";
+    "ProwBruttoKasPL": "21961,34";
+    "ObrotKasPL": "7124978,29";
+    "ProwNettoTermPL": "3222,09";
+    "ProwBruttoTermPL": "5521,42";
+    "ObrotTerminPL": "1546,36";
+    "ProwNettoKasZagr": "1779,30";
+    "ProwBruttoKasZagr": "3330,84";
+    "ObrotKasZagr": "1276695,59";
     "KlienciObrotAll": 403,
     "KlienciObrotKasowyPL": 329,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 78,
-    "Akcje": "2786203045,04",
-    "AktywaZagraniczne": "103504384,00",
-    "Obligacje": "72722816,30",
-    "Gotowka": "185887251,36",
-    "Warranty": "0,00",
-    "Kontrakty": "3450863,09",
-    "GotowkaZagraniczna": "14405245,78",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3166173605,56",
+    "Akcje": "2786203045,04";
+    "AktywaZagraniczne": "103504384,00";
+    "Obligacje": "72722816,30";
+    "Gotowka": "185887251,36";
+    "Warranty": "0,00";
+    "Kontrakty": "3450863,09";
+    "GotowkaZagraniczna": "14405245,78";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3166173605,56";
     "LiczbaOtwartychRachunkow": 23094,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 5,
     "Odsetki_Netto": "8090,55"
   },
   {
-    "DataSesji": "2019-02-20",
+    "DataSesji": "2019-02-20";
     "IDCzas": 6625,
     "DzienNumer": 20,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "43061,05",
-    "ProwBruttoKasPL": "47783,49",
-    "ObrotKasPL": "12260406,06",
-    "ProwNettoTermPL": "4066,52",
-    "ProwBruttoTermPL": "6814,18",
-    "ObrotTerminPL": "2451,31",
-    "ProwNettoKasZagr": "878,12",
-    "ProwBruttoKasZagr": "1221,78",
-    "ObrotKasZagr": "256510,25",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "43061,05";
+    "ProwBruttoKasPL": "47783,49";
+    "ObrotKasPL": "12260406,06";
+    "ProwNettoTermPL": "4066,52";
+    "ProwBruttoTermPL": "6814,18";
+    "ObrotTerminPL": "2451,31";
+    "ProwNettoKasZagr": "878,12";
+    "ProwBruttoKasZagr": "1221,78";
+    "ObrotKasZagr": "256510,25";
     "KlienciObrotAll": 496,
     "KlienciObrotKasowyPL": 398,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 106,
-    "Akcje": "2796924450,76",
-    "AktywaZagraniczne": "103590295,87",
-    "Obligacje": "72845112,34",
-    "Gotowka": "183822091,08",
-    "Warranty": "0,00",
-    "Kontrakty": "3722377,27",
-    "GotowkaZagraniczna": "14554953,06",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3175459280,38",
+    "Akcje": "2796924450,76";
+    "AktywaZagraniczne": "103590295,87";
+    "Obligacje": "72845112,34";
+    "Gotowka": "183822091,08";
+    "Warranty": "0,00";
+    "Kontrakty": "3722377,27";
+    "GotowkaZagraniczna": "14554953,06";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3175459280,38";
     "LiczbaOtwartychRachunkow": 23095,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 3,
     "Odsetki_Netto": "8007,00"
   },
   {
-    "DataSesji": "2019-02-21",
+    "DataSesji": "2019-02-21";
     "IDCzas": 6626,
     "DzienNumer": 21,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "22582,23",
-    "ProwBruttoKasPL": "26032,02",
-    "ObrotKasPL": "8657943,87",
-    "ProwNettoTermPL": "5199,95",
-    "ProwBruttoTermPL": "8704,54",
-    "ObrotTerminPL": "1916,03",
-    "ProwNettoKasZagr": "344,79",
-    "ProwBruttoKasZagr": "681,67",
-    "ObrotKasZagr": "171068,62",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "22582,23";
+    "ProwBruttoKasPL": "26032,02";
+    "ObrotKasPL": "8657943,87";
+    "ProwNettoTermPL": "5199,95";
+    "ProwBruttoTermPL": "8704,54";
+    "ObrotTerminPL": "1916,03";
+    "ProwNettoKasZagr": "344,79";
+    "ProwBruttoKasZagr": "681,67";
+    "ObrotKasZagr": "171068,62";
     "KlienciObrotAll": 444,
     "KlienciObrotKasowyPL": 344,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 106,
-    "Akcje": "2792660293,61",
-    "AktywaZagraniczne": "101946835,86",
-    "Obligacje": "72856077,30",
-    "Gotowka": "183123430,66",
-    "Warranty": "0,00",
-    "Kontrakty": "3524443,69",
-    "GotowkaZagraniczna": "15543507,81",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3169654588,92",
+    "Akcje": "2792660293,61";
+    "AktywaZagraniczne": "101946835,86";
+    "Obligacje": "72856077,30";
+    "Gotowka": "183123430,66";
+    "Warranty": "0,00";
+    "Kontrakty": "3524443,69";
+    "GotowkaZagraniczna": "15543507,81";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3169654588,92";
     "LiczbaOtwartychRachunkow": 23090,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 7,
     "Odsetki_Netto": "7982,98"
   },
   {
-    "DataSesji": "2019-02-22",
+    "DataSesji": "2019-02-22";
     "IDCzas": 6627,
     "DzienNumer": 22,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "20336,10",
-    "ProwBruttoKasPL": "23454,46",
-    "ObrotKasPL": "7880169,71",
-    "ProwNettoTermPL": "4081,04",
-    "ProwBruttoTermPL": "6731,06",
-    "ObrotTerminPL": "1299,42",
-    "ProwNettoKasZagr": "1760,94",
-    "ProwBruttoKasZagr": "2519,46",
-    "ObrotKasZagr": "1245270,87",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "20336,10";
+    "ProwBruttoKasPL": "23454,46";
+    "ObrotKasPL": "7880169,71";
+    "ProwNettoTermPL": "4081,04";
+    "ProwBruttoTermPL": "6731,06";
+    "ObrotTerminPL": "1299,42";
+    "ProwNettoKasZagr": "1760,94";
+    "ProwBruttoKasZagr": "2519,46";
+    "ObrotKasZagr": "1245270,87";
     "KlienciObrotAll": 393,
     "KlienciObrotKasowyPL": 297,
     "KlienciObrotKasowyZagr": 8,
     "KlienciObrotTerminPL": 100,
-    "Akcje": "2834785414,34",
-    "AktywaZagraniczne": "102412381,87",
-    "Obligacje": "72953876,74",
-    "Gotowka": "183086926,15",
-    "Warranty": "0,00",
-    "Kontrakty": "3682583,71",
-    "GotowkaZagraniczna": "15634208,82",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3212555391,63",
+    "Akcje": "2834785414,34";
+    "AktywaZagraniczne": "102412381,87";
+    "Obligacje": "72953876,74";
+    "Gotowka": "183086926,15";
+    "Warranty": "0,00";
+    "Kontrakty": "3682583,71";
+    "GotowkaZagraniczna": "15634208,82";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3212555391,63";
     "LiczbaOtwartychRachunkow": 23087,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 6,
     "Odsetki_Netto": "10195,09"
   },
   {
-    "DataSesji": "2019-02-23",
+    "DataSesji": "2019-02-23";
     "IDCzas": 6628,
     "DzienNumer": 23,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23087,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8877,53"
   },
   {
-    "DataSesji": "2019-02-24",
+    "DataSesji": "2019-02-24";
     "IDCzas": 6629,
     "DzienNumer": 24,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 23087,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8877,53"
   },
   {
-    "DataSesji": "2019-02-25",
+    "DataSesji": "2019-02-25";
     "IDCzas": 6630,
     "DzienNumer": 25,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "26965,87",
-    "ProwBruttoKasPL": "31084,43",
-    "ObrotKasPL": "11049262,78",
-    "ProwNettoTermPL": "3587,02",
-    "ProwBruttoTermPL": "5936,98",
-    "ObrotTerminPL": "1438,78",
-    "ProwNettoKasZagr": "866,27",
-    "ProwBruttoKasZagr": "1439,92",
-    "ObrotKasZagr": "349221,59",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "26965,87";
+    "ProwBruttoKasPL": "31084,43";
+    "ObrotKasPL": "11049262,78";
+    "ProwNettoTermPL": "3587,02";
+    "ProwBruttoTermPL": "5936,98";
+    "ObrotTerminPL": "1438,78";
+    "ProwNettoKasZagr": "866,27";
+    "ProwBruttoKasZagr": "1439,92";
+    "ObrotKasZagr": "349221,59";
     "KlienciObrotAll": 457,
     "KlienciObrotKasowyPL": 369,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 91,
-    "Akcje": "2872708538,56",
-    "AktywaZagraniczne": "102444461,90",
-    "Obligacje": "73001579,10",
-    "Gotowka": "185571530,86",
-    "Warranty": "0,00",
-    "Kontrakty": "3778394,44",
-    "GotowkaZagraniczna": "15599662,23",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3253104167,10",
+    "Akcje": "2872708538,56";
+    "AktywaZagraniczne": "102444461,90";
+    "Obligacje": "73001579,10";
+    "Gotowka": "185571530,86";
+    "Warranty": "0,00";
+    "Kontrakty": "3778394,44";
+    "GotowkaZagraniczna": "15599662,23";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3253104167,10";
     "LiczbaOtwartychRachunkow": 23073,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 17,
     "Odsetki_Netto": "8116,82"
   },
   {
-    "DataSesji": "2019-02-26",
+    "DataSesji": "2019-02-26";
     "IDCzas": 6631,
     "DzienNumer": 26,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "24054,50",
-    "ProwBruttoKasPL": "27868,01",
-    "ObrotKasPL": "9994949,45",
-    "ProwNettoTermPL": "2035,25",
-    "ProwBruttoTermPL": "3297,70",
-    "ObrotTerminPL": "1344,90",
-    "ProwNettoKasZagr": "246,64",
-    "ProwBruttoKasZagr": "523,53",
-    "ObrotKasZagr": "98905,53",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "24054,50";
+    "ProwBruttoKasPL": "27868,01";
+    "ObrotKasPL": "9994949,45";
+    "ProwNettoTermPL": "2035,25";
+    "ProwBruttoTermPL": "3297,70";
+    "ObrotTerminPL": "1344,90";
+    "ProwNettoKasZagr": "246,64";
+    "ProwBruttoKasZagr": "523,53";
+    "ObrotKasZagr": "98905,53";
     "KlienciObrotAll": 410,
     "KlienciObrotKasowyPL": 341,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 73,
-    "Akcje": "2861915149,83",
-    "AktywaZagraniczne": "103494780,04",
-    "Obligacje": "72967156,00",
-    "Gotowka": "187323880,82",
-    "Warranty": "0,00",
-    "Kontrakty": "3887964,98",
-    "GotowkaZagraniczna": "14571860,86",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3244160792,53",
+    "Akcje": "2861915149,83";
+    "AktywaZagraniczne": "103494780,04";
+    "Obligacje": "72967156,00";
+    "Gotowka": "187323880,82";
+    "Warranty": "0,00";
+    "Kontrakty": "3887964,98";
+    "GotowkaZagraniczna": "14571860,86";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3244160792,53";
     "LiczbaOtwartychRachunkow": 23048,
     "OtwarcieRachunku": 4,
     "ZamkniecieRachunku": 29,
     "Odsetki_Netto": "8197,48"
   },
   {
-    "DataSesji": "2019-02-27",
+    "DataSesji": "2019-02-27";
     "IDCzas": 6632,
     "DzienNumer": 27,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "22643,98",
-    "ProwBruttoKasPL": "26205,19",
-    "ObrotKasPL": "9314371,61",
-    "ProwNettoTermPL": "3646,69",
-    "ProwBruttoTermPL": "6174,09",
-    "ObrotTerminPL": "3321,57",
-    "ProwNettoKasZagr": "580,60",
-    "ProwBruttoKasZagr": "984,15",
-    "ObrotKasZagr": "280590,86",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "22643,98";
+    "ProwBruttoKasPL": "26205,19";
+    "ObrotKasPL": "9314371,61";
+    "ProwNettoTermPL": "3646,69";
+    "ProwBruttoTermPL": "6174,09";
+    "ObrotTerminPL": "3321,57";
+    "ProwNettoKasZagr": "580,60";
+    "ProwBruttoKasZagr": "984,15";
+    "ObrotKasZagr": "280590,86";
     "KlienciObrotAll": 441,
     "KlienciObrotKasowyPL": 348,
     "KlienciObrotKasowyZagr": 4,
     "KlienciObrotTerminPL": 97,
-    "Akcje": "2833937853,60",
-    "AktywaZagraniczne": "103120017,30",
-    "Obligacje": "72858492,45",
-    "Gotowka": "189450424,24",
-    "Warranty": "0,00",
-    "Kontrakty": "3749351,42",
-    "GotowkaZagraniczna": "14502744,24",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3217618883,26",
+    "Akcje": "2833937853,60";
+    "AktywaZagraniczne": "103120017,30";
+    "Obligacje": "72858492,45";
+    "Gotowka": "189450424,24";
+    "Warranty": "0,00";
+    "Kontrakty": "3749351,42";
+    "GotowkaZagraniczna": "14502744,24";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3217618883,26";
     "LiczbaOtwartychRachunkow": 23014,
     "OtwarcieRachunku": 4,
     "ZamkniecieRachunku": 37,
     "Odsetki_Netto": "8481,34"
   },
   {
-    "DataSesji": "2019-02-28",
+    "DataSesji": "2019-02-28";
     "IDCzas": 6633,
     "DzienNumer": 28,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 2,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "20021,46",
-    "ProwBruttoKasPL": "23228,55",
-    "ObrotKasPL": "8248802,22",
-    "ProwNettoTermPL": "2928,38",
-    "ProwBruttoTermPL": "4804,55",
-    "ObrotTerminPL": "1742,57",
-    "ProwNettoKasZagr": "5112,65",
-    "ProwBruttoKasZagr": "5551,39",
-    "ObrotKasZagr": "1415923,73",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "20021,46";
+    "ProwBruttoKasPL": "23228,55";
+    "ObrotKasPL": "8248802,22";
+    "ProwNettoTermPL": "2928,38";
+    "ProwBruttoTermPL": "4804,55";
+    "ObrotTerminPL": "1742,57";
+    "ProwNettoKasZagr": "5112,65";
+    "ProwBruttoKasZagr": "5551,39";
+    "ObrotKasZagr": "1415923,73";
     "KlienciObrotAll": 405,
     "KlienciObrotKasowyPL": 317,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 90,
-    "Akcje": "2863882378,59",
-    "AktywaZagraniczne": "103560794,64",
-    "Obligacje": "72950492,92",
-    "Gotowka": "188625494,64",
-    "Warranty": "0,00",
-    "Kontrakty": "3892267,74",
-    "GotowkaZagraniczna": "14505206,09",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3247416634,62",
+    "Akcje": "2863882378,59";
+    "AktywaZagraniczne": "103560794,64";
+    "Obligacje": "72950492,92";
+    "Gotowka": "188625494,64";
+    "Warranty": "0,00";
+    "Kontrakty": "3892267,74";
+    "GotowkaZagraniczna": "14505206,09";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3247416634,62";
     "LiczbaOtwartychRachunkow": 22968,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 48,
     "Odsetki_Netto": "8244,80"
   },
   {
-    "DataSesji": "2019-03-01",
+    "DataSesji": "2019-03-01";
     "IDCzas": 6634,
     "DzienNumer": 1,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "18931,62",
-    "ProwBruttoKasPL": "21872,16",
-    "ObrotKasPL": "7308986,90",
-    "ProwNettoTermPL": "3167,27",
-    "ProwBruttoTermPL": "5273,17",
-    "ObrotTerminPL": "1468,80",
-    "ProwNettoKasZagr": "2874,29",
-    "ProwBruttoKasZagr": "3315,73",
-    "ObrotKasZagr": "896485,34",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "18931,62";
+    "ProwBruttoKasPL": "21872,16";
+    "ObrotKasPL": "7308986,90";
+    "ProwNettoTermPL": "3167,27";
+    "ProwBruttoTermPL": "5273,17";
+    "ObrotTerminPL": "1468,80";
+    "ProwNettoKasZagr": "2874,29";
+    "ProwBruttoKasZagr": "3315,73";
+    "ObrotKasZagr": "896485,34";
     "KlienciObrotAll": 404,
     "KlienciObrotKasowyPL": 316,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 87,
-    "Akcje": "2849277676,85",
-    "AktywaZagraniczne": "102201346,42",
-    "Obligacje": "73386048,82",
-    "Gotowka": "187465076,22",
-    "Warranty": "0,00",
-    "Kontrakty": "3816832,62",
-    "GotowkaZagraniczna": "14333692,09",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3230480673,02",
+    "Akcje": "2849277676,85";
+    "AktywaZagraniczne": "102201346,42";
+    "Obligacje": "73386048,82";
+    "Gotowka": "187465076,22";
+    "Warranty": "0,00";
+    "Kontrakty": "3816832,62";
+    "GotowkaZagraniczna": "14333692,09";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3230480673,02";
     "LiczbaOtwartychRachunkow": 22936,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 40,
     "Odsetki_Netto": "8255,74"
   },
   {
-    "DataSesji": "2019-03-02",
+    "DataSesji": "2019-03-02";
     "IDCzas": 6635,
     "DzienNumer": 2,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 22936,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "9562,46"
   },
   {
-    "DataSesji": "2019-03-03",
+    "DataSesji": "2019-03-03";
     "IDCzas": 6636,
     "DzienNumer": 3,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 22936,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "9089,83"
   },
   {
-    "DataSesji": "2019-03-04",
+    "DataSesji": "2019-03-04";
     "IDCzas": 6637,
     "DzienNumer": 4,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "20879,72",
-    "ProwBruttoKasPL": "24154,46",
-    "ObrotKasPL": "8289743,41",
-    "ProwNettoTermPL": "3866,93",
-    "ProwBruttoTermPL": "6135,66",
-    "ObrotTerminPL": "2629,45",
-    "ProwNettoKasZagr": "238,95",
-    "ProwBruttoKasZagr": "531,94",
-    "ObrotKasZagr": "109170,21",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "20879,72";
+    "ProwBruttoKasPL": "24154,46";
+    "ObrotKasPL": "8289743,41";
+    "ProwNettoTermPL": "3866,93";
+    "ProwBruttoTermPL": "6135,66";
+    "ObrotTerminPL": "2629,45";
+    "ProwNettoKasZagr": "238,95";
+    "ProwBruttoKasZagr": "531,94";
+    "ObrotKasZagr": "109170,21";
     "KlienciObrotAll": 406,
     "KlienciObrotKasowyPL": 320,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 88,
-    "Akcje": "2856746062,04",
-    "AktywaZagraniczne": "101382790,89",
-    "Obligacje": "73382497,41",
-    "Gotowka": "186078666,90",
-    "Warranty": "0,00",
-    "Kontrakty": "3665507,82",
-    "GotowkaZagraniczna": "15587629,55",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3236843154,60",
+    "Akcje": "2856746062,04";
+    "AktywaZagraniczne": "101382790,89";
+    "Obligacje": "73382497,41";
+    "Gotowka": "186078666,90";
+    "Warranty": "0,00";
+    "Kontrakty": "3665507,82";
+    "GotowkaZagraniczna": "15587629,55";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3236843154,60";
     "LiczbaOtwartychRachunkow": 22911,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 28,
     "Odsetki_Netto": "8122,60"
   },
   {
-    "DataSesji": "2019-03-05",
+    "DataSesji": "2019-03-05";
     "IDCzas": 6638,
     "DzienNumer": 5,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "13443,82",
-    "ProwBruttoKasPL": "15629,80",
-    "ObrotKasPL": "4918873,08",
-    "ProwNettoTermPL": "2573,40",
-    "ProwBruttoTermPL": "4286,06",
-    "ObrotTerminPL": "2055,10",
-    "ProwNettoKasZagr": "801,00",
-    "ProwBruttoKasZagr": "1194,63",
-    "ObrotKasZagr": "199119,48",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "13443,82";
+    "ProwBruttoKasPL": "15629,80";
+    "ObrotKasPL": "4918873,08";
+    "ProwNettoTermPL": "2573,40";
+    "ProwBruttoTermPL": "4286,06";
+    "ObrotTerminPL": "2055,10";
+    "ProwNettoKasZagr": "801,00";
+    "ProwBruttoKasZagr": "1194,63";
+    "ObrotKasZagr": "199119,48";
     "KlienciObrotAll": 374,
     "KlienciObrotKasowyPL": 287,
     "KlienciObrotKasowyZagr": 7,
     "KlienciObrotTerminPL": 87,
-    "Akcje": "2856509784,27",
-    "AktywaZagraniczne": "100548968,08",
-    "Obligacje": "73489768,15",
-    "Gotowka": "181116021,15",
-    "Warranty": "0,00",
-    "Kontrakty": "3769270,41",
-    "GotowkaZagraniczna": "15217581,45",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3230651393,51",
+    "Akcje": "2856509784,27";
+    "AktywaZagraniczne": "100548968,08";
+    "Obligacje": "73489768,15";
+    "Gotowka": "181116021,15";
+    "Warranty": "0,00";
+    "Kontrakty": "3769270,41";
+    "GotowkaZagraniczna": "15217581,45";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3230651393,51";
     "LiczbaOtwartychRachunkow": 22884,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 30,
     "Odsetki_Netto": "7891,47"
   },
   {
-    "DataSesji": "2019-03-06",
+    "DataSesji": "2019-03-06";
     "IDCzas": 6639,
     "DzienNumer": 6,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "14913,25",
-    "ProwBruttoKasPL": "17360,22",
-    "ObrotKasPL": "5698904,69",
-    "ProwNettoTermPL": "2505,62",
-    "ProwBruttoTermPL": "3919,29",
-    "ObrotTerminPL": "887,17",
-    "ProwNettoKasZagr": "2317,26",
-    "ProwBruttoKasZagr": "2523,06",
-    "ObrotKasZagr": "665163,42",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "14913,25";
+    "ProwBruttoKasPL": "17360,22";
+    "ObrotKasPL": "5698904,69";
+    "ProwNettoTermPL": "2505,62";
+    "ProwBruttoTermPL": "3919,29";
+    "ObrotTerminPL": "887,17";
+    "ProwNettoKasZagr": "2317,26";
+    "ProwBruttoKasZagr": "2523,06";
+    "ObrotKasZagr": "665163,42";
     "KlienciObrotAll": 378,
     "KlienciObrotKasowyPL": 301,
     "KlienciObrotKasowyZagr": 3,
     "KlienciObrotTerminPL": 78,
-    "Akcje": "2879526834,90",
-    "AktywaZagraniczne": "101139059,15",
-    "Obligacje": "73537401,03",
-    "Gotowka": "180508409,39",
-    "Warranty": "0,00",
-    "Kontrakty": "3807552,69",
-    "GotowkaZagraniczna": "15252672,79",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3253771929,95",
+    "Akcje": "2879526834,90";
+    "AktywaZagraniczne": "101139059,15";
+    "Obligacje": "73537401,03";
+    "Gotowka": "180508409,39";
+    "Warranty": "0,00";
+    "Kontrakty": "3807552,69";
+    "GotowkaZagraniczna": "15252672,79";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3253771929,95";
     "LiczbaOtwartychRachunkow": 22869,
     "OtwarcieRachunku": 1,
     "ZamkniecieRachunku": 18,
     "Odsetki_Netto": "7847,22"
   },
   {
-    "DataSesji": "2019-03-07",
+    "DataSesji": "2019-03-07";
     "IDCzas": 6640,
     "DzienNumer": 7,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "19740,63",
-    "ProwBruttoKasPL": "22808,30",
-    "ObrotKasPL": "7450058,17",
-    "ProwNettoTermPL": "3468,51",
-    "ProwBruttoTermPL": "5653,06",
-    "ObrotTerminPL": "1441,98",
-    "ProwNettoKasZagr": "1096,22",
-    "ProwBruttoKasZagr": "1490,18",
-    "ObrotKasZagr": "221359,15",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "19740,63";
+    "ProwBruttoKasPL": "22808,30";
+    "ObrotKasPL": "7450058,17";
+    "ProwNettoTermPL": "3468,51";
+    "ProwBruttoTermPL": "5653,06";
+    "ObrotTerminPL": "1441,98";
+    "ProwNettoKasZagr": "1096,22";
+    "ProwBruttoKasZagr": "1490,18";
+    "ObrotKasZagr": "221359,15";
     "KlienciObrotAll": 413,
     "KlienciObrotKasowyPL": 318,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 95,
-    "Akcje": "2875481397,06",
-    "AktywaZagraniczne": "100925051,93",
-    "Obligacje": "75849279,71",
-    "Gotowka": "179706052,83",
-    "Warranty": "0,00",
-    "Kontrakty": "3729232,64",
-    "GotowkaZagraniczna": "15304648,85",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3250995663,02",
+    "Akcje": "2875481397,06";
+    "AktywaZagraniczne": "100925051,93";
+    "Obligacje": "75849279,71";
+    "Gotowka": "179706052,83";
+    "Warranty": "0,00";
+    "Kontrakty": "3729232,64";
+    "GotowkaZagraniczna": "15304648,85";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3250995663,02";
     "LiczbaOtwartychRachunkow": 22849,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 22,
     "Odsetki_Netto": "7814,69"
   },
   {
-    "DataSesji": "2019-03-08",
+    "DataSesji": "2019-03-08";
     "IDCzas": 6641,
     "DzienNumer": 8,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "17934,77",
-    "ProwBruttoKasPL": "20716,43",
-    "ObrotKasPL": "6574649,59",
-    "ProwNettoTermPL": "3662,96",
-    "ProwBruttoTermPL": "5884,82",
-    "ObrotTerminPL": "1485,13",
-    "ProwNettoKasZagr": "1333,35",
-    "ProwBruttoKasZagr": "2306,23",
-    "ObrotKasZagr": "585315,63",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "17934,77";
+    "ProwBruttoKasPL": "20716,43";
+    "ObrotKasPL": "6574649,59";
+    "ProwNettoTermPL": "3662,96";
+    "ProwBruttoTermPL": "5884,82";
+    "ObrotTerminPL": "1485,13";
+    "ProwNettoKasZagr": "1333,35";
+    "ProwBruttoKasZagr": "2306,23";
+    "ObrotKasZagr": "585315,63";
     "KlienciObrotAll": 400,
     "KlienciObrotKasowyPL": 304,
     "KlienciObrotKasowyZagr": 9,
     "KlienciObrotTerminPL": 95,
-    "Akcje": "2841966686,06",
-    "AktywaZagraniczne": "101442204,64",
-    "Obligacje": "76008766,95",
-    "Gotowka": "177889176,19",
-    "Warranty": "0,00",
-    "Kontrakty": "3615894,62",
-    "GotowkaZagraniczna": "14837670,61",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3215760399,06",
+    "Akcje": "2841966686,06";
+    "AktywaZagraniczne": "101442204,64";
+    "Obligacje": "76008766,95";
+    "Gotowka": "177889176,19";
+    "Warranty": "0,00";
+    "Kontrakty": "3615894,62";
+    "GotowkaZagraniczna": "14837670,61";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3215760399,06";
     "LiczbaOtwartychRachunkow": 22827,
     "OtwarcieRachunku": 4,
     "ZamkniecieRachunku": 27,
     "Odsetki_Netto": "10007,97"
   },
   {
-    "DataSesji": "2019-03-09",
+    "DataSesji": "2019-03-09";
     "IDCzas": 6642,
     "DzienNumer": 9,
-    "DzienNazwa": "Sobota",
+    "DzienNazwa": "Sobota";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 22827,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8625,49"
   },
   {
-    "DataSesji": "2019-03-10",
+    "DataSesji": "2019-03-10";
     "IDCzas": 6643,
     "DzienNumer": 10,
-    "DzienNazwa": "Niedziela",
+    "DzienNazwa": "Niedziela";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "N",
-    "ProwNettoKasPL": "0,00",
-    "ProwBruttoKasPL": "0,00",
-    "ObrotKasPL": "0,00",
-    "ProwNettoTermPL": "0,00",
-    "ProwBruttoTermPL": "0,00",
-    "ObrotTerminPL": "0,00",
-    "ProwNettoKasZagr": "0,00",
-    "ProwBruttoKasZagr": "0,00",
-    "ObrotKasZagr": "0,00",
+    "Kwartal": "K1";
+    "Sesja": "N";
+    "ProwNettoKasPL": "0,00";
+    "ProwBruttoKasPL": "0,00";
+    "ObrotKasPL": "0,00";
+    "ProwNettoTermPL": "0,00";
+    "ProwBruttoTermPL": "0,00";
+    "ObrotTerminPL": "0,00";
+    "ProwNettoKasZagr": "0,00";
+    "ProwBruttoKasZagr": "0,00";
+    "ObrotKasZagr": "0,00";
     "KlienciObrotAll": 0,
     "KlienciObrotKasowyPL": 0,
     "KlienciObrotKasowyZagr": 0,
     "KlienciObrotTerminPL": 0,
-    "Akcje": "0,00",
-    "AktywaZagraniczne": "0,00",
-    "Obligacje": "0,00",
-    "Gotowka": "0,00",
-    "Warranty": "0,00",
-    "Kontrakty": "0,00",
-    "GotowkaZagraniczna": "0,00",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "0,00",
+    "Akcje": "0,00";
+    "AktywaZagraniczne": "0,00";
+    "Obligacje": "0,00";
+    "Gotowka": "0,00";
+    "Warranty": "0,00";
+    "Kontrakty": "0,00";
+    "GotowkaZagraniczna": "0,00";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "0,00";
     "LiczbaOtwartychRachunkow": 22827,
     "OtwarcieRachunku": 0,
     "ZamkniecieRachunku": 0,
     "Odsetki_Netto": "8625,49"
   },
   {
-    "DataSesji": "2019-03-11",
+    "DataSesji": "2019-03-11";
     "IDCzas": 6644,
     "DzienNumer": 11,
-    "DzienNazwa": "Poniedzia�ek",
+    "DzienNazwa": "Poniedzia�ek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "14377,08",
-    "ProwBruttoKasPL": "16537,20",
-    "ObrotKasPL": "4691466,34",
-    "ProwNettoTermPL": "2387,54",
-    "ProwBruttoTermPL": "3813,42",
-    "ObrotTerminPL": "833,82",
-    "ProwNettoKasZagr": "860,54",
-    "ProwBruttoKasZagr": "1166,09",
-    "ObrotKasZagr": "296936,03",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "14377,08";
+    "ProwBruttoKasPL": "16537,20";
+    "ObrotKasPL": "4691466,34";
+    "ProwNettoTermPL": "2387,54";
+    "ProwBruttoTermPL": "3813,42";
+    "ObrotTerminPL": "833,82";
+    "ProwNettoKasZagr": "860,54";
+    "ProwBruttoKasZagr": "1166,09";
+    "ObrotKasZagr": "296936,03";
     "KlienciObrotAll": 371,
     "KlienciObrotKasowyPL": 291,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 80,
-    "Akcje": "2868289731,40",
-    "AktywaZagraniczne": "102864635,65",
-    "Obligacje": "75945904,04",
-    "Gotowka": "177182661,09",
-    "Warranty": "0,00",
-    "Kontrakty": "3676801,41",
-    "GotowkaZagraniczna": "14885627,56",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3242845361,16",
+    "Akcje": "2868289731,40";
+    "AktywaZagraniczne": "102864635,65";
+    "Obligacje": "75945904,04";
+    "Gotowka": "177182661,09";
+    "Warranty": "0,00";
+    "Kontrakty": "3676801,41";
+    "GotowkaZagraniczna": "14885627,56";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3242845361,16";
     "LiczbaOtwartychRachunkow": 22806,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 23,
     "Odsetki_Netto": "7677,99"
   },
   {
-    "DataSesji": "2019-03-12",
+    "DataSesji": "2019-03-12";
     "IDCzas": 6645,
     "DzienNumer": 12,
-    "DzienNazwa": "Wtorek",
+    "DzienNazwa": "Wtorek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "17296,00",
-    "ProwBruttoKasPL": "19872,80",
-    "ObrotKasPL": "6011323,90",
-    "ProwNettoTermPL": "3313,51",
-    "ProwBruttoTermPL": "5376,97",
-    "ObrotTerminPL": "1208,45",
-    "ProwNettoKasZagr": "904,33",
-    "ProwBruttoKasZagr": "1495,27",
-    "ObrotKasZagr": "338441,64",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "17296,00";
+    "ProwBruttoKasPL": "19872,80";
+    "ObrotKasPL": "6011323,90";
+    "ProwNettoTermPL": "3313,51";
+    "ProwBruttoTermPL": "5376,97";
+    "ObrotTerminPL": "1208,45";
+    "ProwNettoKasZagr": "904,33";
+    "ProwBruttoKasZagr": "1495,27";
+    "ObrotKasZagr": "338441,64";
     "KlienciObrotAll": 382,
     "KlienciObrotKasowyPL": 294,
     "KlienciObrotKasowyZagr": 7,
     "KlienciObrotTerminPL": 90,
-    "Akcje": "2893637889,82",
-    "AktywaZagraniczne": "102729114,44",
-    "Obligacje": "75920935,82",
-    "Gotowka": "175742180,96",
-    "Warranty": "0,00",
-    "Kontrakty": "3548332,62",
-    "GotowkaZagraniczna": "14566402,47",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3266144856,13",
+    "Akcje": "2893637889,82";
+    "AktywaZagraniczne": "102729114,44";
+    "Obligacje": "75920935,82";
+    "Gotowka": "175742180,96";
+    "Warranty": "0,00";
+    "Kontrakty": "3548332,62";
+    "GotowkaZagraniczna": "14566402,47";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3266144856,13";
     "LiczbaOtwartychRachunkow": 22789,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 19,
     "Odsetki_Netto": "7622,46"
   },
   {
-    "DataSesji": "2019-03-13",
+    "DataSesji": "2019-03-13";
     "IDCzas": 6646,
     "DzienNumer": 13,
-    "DzienNazwa": "�roda",
+    "DzienNazwa": "�roda";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "19780,51",
-    "ProwBruttoKasPL": "22780,66",
-    "ObrotKasPL": "7151909,71",
-    "ProwNettoTermPL": "3537,69",
-    "ProwBruttoTermPL": "5640,35",
-    "ObrotTerminPL": "1316,91",
-    "ProwNettoKasZagr": "981,06",
-    "ProwBruttoKasZagr": "1792,09",
-    "ObrotKasZagr": "266439,03",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "19780,51";
+    "ProwBruttoKasPL": "22780,66";
+    "ObrotKasPL": "7151909,71";
+    "ProwNettoTermPL": "3537,69";
+    "ProwBruttoTermPL": "5640,35";
+    "ObrotTerminPL": "1316,91";
+    "ProwNettoKasZagr": "981,06";
+    "ProwBruttoKasZagr": "1792,09";
+    "ObrotKasZagr": "266439,03";
     "KlienciObrotAll": 417,
     "KlienciObrotKasowyPL": 330,
     "KlienciObrotKasowyZagr": 6,
     "KlienciObrotTerminPL": 90,
-    "Akcje": "2911343492,27",
-    "AktywaZagraniczne": "102729114,44",
-    "Obligacje": "75932117,12",
-    "Gotowka": "175884613,53",
-    "Warranty": "0,00",
-    "Kontrakty": "3751470,68",
-    "GotowkaZagraniczna": "14397638,98",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3284038447,02",
+    "Akcje": "2911343492,27";
+    "AktywaZagraniczne": "102729114,44";
+    "Obligacje": "75932117,12";
+    "Gotowka": "175884613,53";
+    "Warranty": "0,00";
+    "Kontrakty": "3751470,68";
+    "GotowkaZagraniczna": "14397638,98";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3284038447,02";
     "LiczbaOtwartychRachunkow": 22777,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 16,
     "Odsetki_Netto": "7623,35"
   },
   {
-    "DataSesji": "2019-03-14",
+    "DataSesji": "2019-03-14";
     "IDCzas": 6647,
     "DzienNumer": 14,
-    "DzienNazwa": "Czwartek",
+    "DzienNazwa": "Czwartek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "17881,48",
-    "ProwBruttoKasPL": "20601,43",
-    "ObrotKasPL": "6409313,76",
-    "ProwNettoTermPL": "2841,81",
-    "ProwBruttoTermPL": "4408,69",
-    "ObrotTerminPL": "1195,04",
-    "ProwNettoKasZagr": "115,93",
-    "ProwBruttoKasZagr": "319,62",
-    "ObrotKasZagr": "53949,94",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "17881,48";
+    "ProwBruttoKasPL": "20601,43";
+    "ObrotKasPL": "6409313,76";
+    "ProwNettoTermPL": "2841,81";
+    "ProwBruttoTermPL": "4408,69";
+    "ObrotTerminPL": "1195,04";
+    "ProwNettoKasZagr": "115,93";
+    "ProwBruttoKasZagr": "319,62";
+    "ObrotKasZagr": "53949,94";
     "KlienciObrotAll": 400,
     "KlienciObrotKasowyPL": 307,
     "KlienciObrotKasowyZagr": 4,
     "KlienciObrotTerminPL": 96,
-    "Akcje": "2915190199,23",
-    "AktywaZagraniczne": "103828461,85",
-    "Obligacje": "75986069,56",
-    "Gotowka": "176350055,66",
-    "Warranty": "0,00",
-    "Kontrakty": "3783054,17",
-    "GotowkaZagraniczna": "14232327,96",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3289370168,41",
+    "Akcje": "2915190199,23";
+    "AktywaZagraniczne": "103828461,85";
+    "Obligacje": "75986069,56";
+    "Gotowka": "176350055,66";
+    "Warranty": "0,00";
+    "Kontrakty": "3783054,17";
+    "GotowkaZagraniczna": "14232327,96";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3289370168,41";
     "LiczbaOtwartychRachunkow": 22759,
     "OtwarcieRachunku": 2,
     "ZamkniecieRachunku": 21,
     "Odsetki_Netto": "7635,46"
   },
   {
-    "DataSesji": "2019-03-15",
+    "DataSesji": "2019-03-15";
     "IDCzas": 6648,
     "DzienNumer": 15,
-    "DzienNazwa": "Pi�tek",
+    "DzienNazwa": "Pi�tek";
     "MiesiacNumer": 3,
     "Rok": 2019,
-    "Kwartal": "K1",
-    "Sesja": "T",
-    "ProwNettoKasPL": "30994,88",
-    "ProwBruttoKasPL": "35776,60",
-    "ObrotKasPL": "13566033,57",
-    "ProwNettoTermPL": "5808,89",
-    "ProwBruttoTermPL": "8816,46",
-    "ObrotTerminPL": "1925,66",
-    "ProwNettoKasZagr": "536,48",
-    "ProwBruttoKasZagr": "1061,43",
-    "ObrotKasZagr": "289494,63",
+    "Kwartal": "K1";
+    "Sesja": "T";
+    "ProwNettoKasPL": "30994,88";
+    "ProwBruttoKasPL": "35776,60";
+    "ObrotKasPL": "13566033,57";
+    "ProwNettoTermPL": "5808,89";
+    "ProwBruttoTermPL": "8816,46";
+    "ObrotTerminPL": "1925,66";
+    "ProwNettoKasZagr": "536,48";
+    "ProwBruttoKasZagr": "1061,43";
+    "ObrotKasZagr": "289494,63";
     "KlienciObrotAll": 463,
     "KlienciObrotKasowyPL": 338,
     "KlienciObrotKasowyZagr": 5,
     "KlienciObrotTerminPL": 133,
-    "Akcje": "2937388791,54",
-    "AktywaZagraniczne": "103619374,01",
-    "Obligacje": "76041445,43",
-    "Gotowka": "177422996,20",
-    "Warranty": "0,00",
-    "Kontrakty": "2275464,87",
-    "GotowkaZagraniczna": "14246263,99",
-    "KontraktyZagraniczne": "0,00",
-    "AktywaALL": "3310994336,03",
+    "Akcje": "2937388791,54";
+    "AktywaZagraniczne": "103619374,01";
+    "Obligacje": "76041445,43";
+    "Gotowka": "177422996,20";
+    "Warranty": "0,00";
+    "Kontrakty": "2275464,87";
+    "GotowkaZagraniczna": "14246263,99";
+    "KontraktyZagraniczne": "0,00";
+    "AktywaALL": "3310994336,03";
     "LiczbaOtwartychRachunkow": 22748,
     "OtwarcieRachunku": 3,
     "ZamkniecieRachunku": 15,
