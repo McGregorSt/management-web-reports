@@ -1,20 +1,27 @@
 import React, { Component } from 'react'
-import { Container, Row, Col } from 'reactstrap';
+import { Container, Row, Col, Button, Input} from 'reactstrap';
 
 
-const IncomeType = ({ income, handleIncomeType }) => {
+const IncomeType = ({ income, handleIncomeType, topMenuHeader }) => {
     
     return(
             <div>
-                <h5>Choose income type:</h5>
-                <select name="incomeType" className="incomeType" onChange={ handleIncomeType }>
-                            <option value='null'></option>
-                            { income.map( type => {
-                                return(
-                                    <option key={ type } value={ type }>{ type }</option>
-                                )
-                            })}
-                </select>
+                <h5 
+                className='topMenuHeader' 
+                style={{ display:  topMenuHeader ===  true ? 'block' : 'none'}}
+                >
+                Choose income type:
+                </h5>
+                <Input type="select" name="select" id="exampleSelect" className="incomeType" onChange={ handleIncomeType }>
+                    <option value='null'></option>
+                        { income.map( type => {
+                            return(
+                                <option key={ type } value={ type }>{ type }</option>
+                            )
+                        })}
+                </Input>
+                {/* <select name="incomeType" className="incomeType" onChange={ handleIncomeType }>
+                </select> */}
             </div>
     ) 
 }
@@ -23,15 +30,23 @@ class DateRange extends Component {
 render(){
     return(
         <div >
-            <h5>Choose date range for report:</h5>
+            <h5 
+            className='topMenuHeader' 
+            style={{ display:  this.props.topMenuHeader ===  true ? 'block' : 'none'}}
+            >
+            Choose date range for report:
+            </h5>
             <div className='dates'>
                 <h6>
                     <span>Start Date</span> 
-                    <input type='date' onChange={ this.props.handleDateFrom } className='inputDate' />
+                    <Input type='date' onChange={ this.props.handleDateFrom } className='inputDate' />
                 </h6>
                 <h6>
                     <span>End Date</span> 
-                    <input type='date'  onChange={ this.props.handleDateTo } className='inputDate'/>
+                    <Input type='date'  onChange={ this.props.handleDateTo } className='inputDate'/>
+                </h6>
+                <h6>
+                    <Button color="info" onClick={ this.props.handleClickRun }>Run</Button>
                 </h6>
             </div>
         </div>
@@ -50,6 +65,7 @@ export default class TopMenu extends Component {
                             <IncomeType 
                             income={ ['All', 'Commission', 'Interests'] }
                             handleIncomeType={ this.props.handleIncomeType }
+                            topMenuHeader={ this.props.topMenuHeader }
                             />
                         </Col>
                     </Row>
@@ -61,10 +77,12 @@ export default class TopMenu extends Component {
                             dateTo={ this.props.dateTo } 
                             handleDateFrom={ this.props.handleDateFrom } 
                             handleDateTo={ this.props.handleDateTo }  
-                            
+                            topMenuHeader={ this.props.topMenuHeader }
+                            handleClickRun={ this.props.handleClickRun }
                             />
                         </Col>
                     </Row>
+                    
                 </Container>
             </div>
         )

@@ -12,36 +12,82 @@ import FooterSummary from './FooterSummary';
 
 export default class AppJSX extends Component {
     state = {
-        dateFrom: new Date(),
-        dateTo: '2099-12-12',
+        dateFrom: '',
+        dateTo: '',
         filteredData: [],
         incomeType: null,
+        topMenuHeader: true
     }
 
     handleDateFrom = (event) => {
         this.setState({ dateFrom: event.target.value })
-        this.setState({ filteredData: this.props.data.filter(this.filtering)})
-
+        // this.setState({ filteredData: this.props.data.filter(this.filtering)})
     }
     
     handleDateTo = (event) => {
+        event.preventDefault()
         this.setState({ dateTo: event.target.value })
-        this.setState({ filteredData: this.props.data.filter(this.filtering)})
-        if(this.state.incomeType === null) {
-            alert('Choose income type')
-        }
-    }
-
-    handleIncomeType = (event) => {
-        this.setState({ incomeType: event.target.value })
-    }
         
-    filtering = (elm) => {
-        return elm.DataSesji >= this.state.dateFrom && elm.DataSesji <= this.state.dateTo
-    }
+        // this.setState({ filteredData: this.props.data.filter(
+            //     (elm) => { return elm.DataSesji >= this.state.dateFrom && elm.DataSesji <= this.state.dateTo })
+            //     })
+            
+            if(this.state.incomeType === null) {
+                alert('Choose income type')
+            }
+        }
+        
+        handleIncomeType = (event) => {
+            this.setState({ incomeType: event.target.value })
+        }
+        
+    handleClickRun = (event) => {
+        console.log('click ', event);
+        
+        const dateFromCheck = this.props.data.map( elm => {
+            if(elm.DataSesji === this.state.dateFrom){ return true }
+        })
+        const dateToCheck = this.props.data.map( elm => {
+            if(elm.DataSesji === this.state.dateTo){ return true }
+        })
+        console.log('start ', this.state.dateFrom);
+        console.log('end ', this.state.dateTo);
+        
 
+        if (this.state.topMenuHeader === true){
+            this.setState( prev => ({ topMenuHeader: !prev.topMenuHeader }))
+        } 
+        
+        // validate
+        if (this.state.dateFrom >= this.state.dateTo) {
+            return alert('Choose correct dates')
+        }
+        if(!dateFromCheck.includes(true)){
+            return alert('Incorrect Start Date... Choose weekdays')
+        }
+        if(!dateToCheck.includes(true)){
+            return alert('Incorrect End Date... Choose weekdays')
+        }
+    
+        
+        this.setState({ filteredData: this.props.data.filter(
+            (elm) => { 
+                return elm.DataSesji >= this.state.dateFrom && elm.DataSesji <= this.state.dateTo 
+            }
+            )
+        })
+    }
+    
+    
     render() {
-        console.log('inc   ', this.state.incomeType)
+        // console.log('from ', this.state.dateFrom);
+        // console.log('to  ', this.state.dateTo);
+        // console.log('filtered  ', this.state.filteredData);
+        
+        // console.log(this.state.dateFrom.includes(this.props.data.DataSesji) ? 'includez' : 'not includezzz');
+        // this.props.data.forEach( (elm) => { return console.log(elm.DataSesji)})
+        
+        
         return(
             <div >
                 <Container className='main' >
@@ -53,6 +99,8 @@ export default class AppJSX extends Component {
                             handleDateFrom={ this.handleDateFrom } 
                             handleDateTo={ this.handleDateTo } 
                             handleIncomeType={ this.handleIncomeType }
+                            topMenuHeader={ this.state.topMenuHeader }
+                            handleClickRun={ this.handleClickRun }
                             />
                         </Col>
                     </Row>

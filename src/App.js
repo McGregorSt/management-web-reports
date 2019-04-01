@@ -8,6 +8,9 @@ import AppJSX from './components/App'
 
 class App extends Component {
   render() {
+
+    console.log(data);
+    
     return (
      <div >
        <AppJSX data={ data } />
