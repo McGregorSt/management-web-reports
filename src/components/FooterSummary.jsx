@@ -11,11 +11,31 @@ import NumberFormat from 'react-number-format';
 class FooterBox extends Component {
     
     render(){
-        const colorInPlus = '#cdf7ca'
-        const colorInMinus = '#ffe2e7'
+        const colorInPlus = '#9FAF90'
+        const colorInMinus = '#E2B1B1'
         
+        if( this.props.className === 'footerBox 14'){
+            
             return(
-                    <div className='footerBox' >
+                    // <div className='footerBox' >
+                        <Card  style={{ backgroundColor: '#4A92C9', color: '#EAEAEA'}} 
+                                cardTitle={ this.props.cardTitle } 
+                                cardSubtitle={ this.props.cardSubtitle } 
+                                cardText={ this.props.cardText } 
+                                handleIncomeType={ this.props.handleIncomeType }>
+                            <CardBody className='summaryCard' >
+                                <CardTitle className='cardTitle'>{ this.props.cardTitle }</CardTitle>
+                                <CardSubtitle className='cardSubtitle'>{ this.props.cardSubtitle }</CardSubtitle>
+                                <CardText style={{fontStyle: 'italic', marginBottom: '20px' }} > Cumulated in period </CardText>
+                            </CardBody>
+                        </Card>
+                    /* </div> */
+            )
+        }
+        else {
+            
+            return(
+                    // <div className='footerBox' >
                         <Card  style={{ backgroundColor: this.props.cardText > 0 ? colorInPlus : colorInMinus}} 
                                 cardTitle={ this.props.cardTitle } 
                                 cardSubtitle={ this.props.cardSubtitle } 
@@ -24,11 +44,76 @@ class FooterBox extends Component {
                             <CardBody className='summaryCard' >
                                 <CardTitle className='cardTitle'>{ this.props.cardTitle }</CardTitle>
                                 <CardSubtitle className='cardSubtitle'>{ this.props.cardSubtitle }</CardSubtitle>
-                                <CardText className='cardText' >Change: { this.props.cardText } </CardText>
+                                <CardText className='cardText' >
+                                
+                                    <span>Change in period:</span>
+                                        <CardSubtitle 
+                                        className='cardText-cardSubtitle'>{ this.props.cardText > 0 ? '+' + this.props.cardText + '%': this.props.cardText + '%' }
+                                        </CardSubtitle>
+                                    
+                                
+                                
+                                </CardText>
+                                <CardText className='cardText' >  </CardText>
                             </CardBody>
                         </Card>
-                    </div>
+                    /* </div> */
             )
+        }
+         
+
+        }
+    }
+
+class FooterBoxYTD extends Component {
+    
+    render(){
+        const colorInPlus = '#9FAF90'
+        const colorInMinus = '#E2B1B1'
+        
+        if(this.props.className === 'footerBox 14'){
+            
+            return(
+                    // <div className='footerBox' >
+                        <Card  style={{ backgroundColor: '#4A92C9', color: '#EAEAEA'}} 
+                                cardTitle={ this.props.cardTitle } 
+                                cardSubtitle={ this.props.cardSubtitle } 
+                                cardText={ this.props.cardText } 
+                                handleIncomeType={ this.props.handleIncomeType }>
+                            <CardBody className='summaryCard' >
+                                <CardTitle className='cardTitle'>{ this.props.cardTitle }</CardTitle>
+                                <CardSubtitle className='cardSubtitle'>{ this.props.cardSubtitle }</CardSubtitle>
+                                <CardText style={{fontStyle: 'italic', marginBottom: '20px' }} > Cumulated in YTD </CardText>
+                            </CardBody>
+                        </Card>
+                    // </div>
+            )
+        }
+        else {
+            
+            return(
+                    // <div className='footerBox' >
+                        <Card  style={{ backgroundColor: this.props.cardText > 0 ? colorInPlus : colorInMinus}} 
+                                cardTitle={ this.props.cardTitle } 
+                                cardSubtitle={ this.props.cardSubtitle } 
+                                cardText={ this.props.cardText } 
+                                handleIncomeType={ this.props.handleIncomeType }>
+                            <CardBody className='summaryCard' >
+                                <CardTitle className='cardTitle'>{ this.props.cardTitle }</CardTitle>
+                                <CardSubtitle className='cardSubtitle'>{ this.props.cardSubtitle }</CardSubtitle>
+                                <CardText className='cardText' >
+                                    <span>Change in period:</span>
+                                        <CardSubtitle 
+                                            className='cardText-cardSubtitle'>{ this.props.cardText > 0 ? '+' + this.props.cardText + '%': this.props.cardText + '%' }
+                                        </CardSubtitle>
+                                </CardText>
+                                <CardText className='cardText' >  </CardText>
+                            </CardBody>
+                        </Card>
+                    // </div>
+            )
+        }
+         
 
         }
     }
@@ -48,30 +133,69 @@ export default class FooterSummary extends Component {
       }
     
       render(){
-          
+
+        // accounts
             const accounts = this.props.data.map( elm => {
-                return elm.KlienciObrotAll
+                return elm.KlienciObrotKasowyPL * 13 + 212
                 })
-            const numOfAcc = accounts[accounts.length - 1]
-            const numOfAccNumber = <NumberFormat displayType='text' value={ numOfAcc } thousandSeparator=' ' />
-            const numOfAccChange = numOfAcc - accounts[0] 
+
+            const accountsYTD = this.props.ytd.map( elm => {
+                return elm.KlienciObrotKasowyPL * 13 + 212
+            })
             
+                
+            const numOfAcc = accounts[0]
+            const numOfAccNumber = <NumberFormat displayType='text' value={ numOfAcc } thousandSeparator=' ' />
+            const numOfAccChange = (numOfAcc - accounts[accounts.length - 1]) / accounts[accounts.length - 1]
+            
+            const numOfAccNumberYTD = <NumberFormat displayType='text' value={ numOfAcc - accountsYTD[0] } thousandSeparator=' ' />
+            const numOfAccChangeYTD = (numOfAcc - accountsYTD[0]) / accountsYTD[0] *100
+
+            console.log('props  ', accountsYTD);
+            console.log('props2  ', numOfAcc);
+            
+
+            
+
+        // assets
             const assets = this.props.data.map( elm => {
                 return elm.AktywaALL
             })
-            const assetsValue = (assets[assets.length - 1])
-            const assetsValueNumber = <NumberFormat displayType='text' value={ Math.round(assetsValue) } thousandSeparator=' ' />
-            
-            const assetsValueChange =  assetsValue / assets[0]
-            
-            const clients = this.props.data.map( elm => {
-                return elm.KlienciObrotKasowyPL
+            const assetsYTD = this.props.ytd.map( elm => {
+                return elm.AktywaALL
             })
-            const activeClients = clients.reduce( (acc, cur) => (Number(acc) + Number(cur)), 0) / clients.length
-            const activeClientsNumber = <NumberFormat displayType='text' value={ Math.round(activeClients) } thousandSeparator=' ' />
-            const activeClientsChange = (activeClients - clients[0]) / activeClients * 100 
             
+            const assetsValue = assets[0]
+            const assetsValueNumber = <NumberFormat displayType='text' value={ assetsValue } thousandSeparator=' ' />
+            const assetsValueChange =  assetsValue / assets[assets.length - 1]
+            
+            const assetsValueNumberYTD = <NumberFormat displayType='text' value={ assetsValue - assetsYTD[0]} thousandSeparator=' ' />
+            const assetsValueChangeYTD =  (assetsValue - assetsYTD[0]) / assetsYTD[0] * 100
+        
+
+        // active clients
+            const clients = this.props.data.map( elm => {
+                return elm.KlienciObrotAll
+            })
+
+            const activeClients = clients[0]
+            // const activeClients = clients.reduce( (acc, cur) => (Number(acc) + Number(cur)), 0) / clients.length
+            const activeClientsNumber = <NumberFormat displayType='text' value={ activeClients } thousandSeparator=' ' />
+            const activeClientsChange = (activeClients - clients[clients.length - 1]) / activeClients * 100 
+        
+        // total income
            const incomeType = this.props.data.map(elm => {
+               if (this.props.incomeType === 'Commission') {
+                   return elm.ProwNettoKasPL
+               }
+               if (this.props.incomeType === 'Interests') {
+                   return elm.Odsetki_Netto
+               }
+               if (this.props.incomeType === 'All') {
+                   return Number(elm.ProwNettoKasPL) + Number(elm.Odsetki_Netto)
+               }
+           })
+           const incomeTypeYTD = this.props.dataYTD.map(elm => {
                if (this.props.incomeType === 'Commission') {
                    return elm.ProwNettoKasPL
                }
@@ -84,18 +208,21 @@ export default class FooterSummary extends Component {
            })
             
             const incomeTypeSum = incomeType.reduce((acc, cur) => (Number(acc) + Number(cur)), 0)
+            const incomeTypeSumYTD = incomeTypeYTD.reduce((acc, cur) => (Number(acc) + Number(cur)), 0)
             
-            const incomeTypeSumNumber = <NumberFormat displayType='text' value={ Math.round(incomeTypeSum) } thousandSeparator=' ' />
+            const incomeTypeSumNumber = <NumberFormat displayType='text' value={ incomeTypeSum } thousandSeparator=' ' />
+            const incomeTypeSumNumberYTD = <NumberFormat displayType='text' value={ incomeTypeSumYTD } thousandSeparator=' ' />
             
             
-            console.log('activeClientsChange ', this.props.CardText < 0);
-            console.log('activeClientsChange ', activeClientsChange.toFixed(2) < 0);
+            
+
+
             
           
 
-            // if (this.props.data.length === 0 || this.props.incomeType === null){
-            //     return null
-            // } else {
+            if (this.props.data.length === 0 || this.props.incomeType === null){
+                return null
+            } else {
 
             return(
             <div className='tabMenu'>
@@ -122,56 +249,85 @@ export default class FooterSummary extends Component {
                     <div >
                         <TabContent activeTab={this.state.activeTab} >
                             <TabPane tabId="1">
-                                <Row className='summaryContent'>
-                                    <Col sm="3">
-                                        <FooterBox 
-                                        data={ this.props.data } 
-                                        className='footerBox' 
-                                        cardTitle='Number of accounts:' 
-                                        cardSubtitle={ numOfAccNumber } 
-                                        cardText={ numOfAccChange } 
-                                        />
-                                    </Col>
-                                    <Col sm="3">
-                                        <FooterBox 
-                                        data={ this.props.data } 
-                                        className='footerBox' 
-                                        cardTitle='Assets:' 
-                                        cardSubtitle={ assetsValueNumber } 
-                                        cardText={ assetsValueChange.toFixed(2) + '%'} 
-                                        />
-                                    </Col>
-                                    <Col sm="3">
-                                        <FooterBox 
-                                        data={ this.props.data } 
-                                        className='footerBox' 
-                                        cardTitle='Average active clients:' 
-                                        cardSubtitle={ activeClientsNumber } 
-                                        cardText={  activeClientsChange.toFixed(2) + '%' }
-                                        
-                                        />
-                                    </Col>
-                                    <Col sm="3">
-                                        <FooterBox 
-                                        data={ this.props.data } 
-                                        className='footerBox'
-                                        cardTitle={ this.props.incomeType === 'All' ? 'Commission & Interests:' : this.props.incomeType + ':'} 
-                                        cardSubtitle={ incomeTypeSumNumber } 
-                                        />
-                                    </Col>
+                                <Row >
+                                    <div className='summaryContent'>
+                                        <Col sm="3" className='footerBox 11'>
+                                            <FooterBox 
+                                            data={ this.props.data } 
+                                            className='footerBox 11' 
+                                            cardTitle='Number of accounts:' 
+                                            cardSubtitle={ numOfAccNumber } 
+                                            cardText={ numOfAccChange.toFixed(2) } 
+                                            />
+                                        </Col>
+                                        <Col sm="3" className='footerBox 12'>
+                                            <FooterBox 
+                                            data={ this.props.data } 
+                                            className='footerBox 12' 
+                                            cardTitle='Assets:' 
+                                            cardSubtitle={ assetsValueNumber } 
+                                            cardText={ assetsValueChange.toFixed(2) } 
+                                            />
+                                        </Col>
+                                        <Col sm="3" className='footerBox 13'>
+                                            <FooterBox 
+                                            data={ this.props.data } 
+                                            className='footerBox 13'
+                                            cardTitle='Active clients:' 
+                                            cardSubtitle={ activeClientsNumber } 
+                                            cardText={  activeClientsChange.toFixed(2) }
+                                            />
+                                        </Col>
+                                        <Col sm="3" className='footerBox 14'>
+                                            <FooterBox 
+                                            data={ this.props.data } 
+                                            className='footerBox 14'
+                                            cardTitle={ this.props.incomeType === 'All' ? 'Commission & Interests:' : this.props.incomeType + ':'} 
+                                            cardSubtitle={ incomeTypeSumNumber } 
+                                            />
+                                        </Col>
+                                    </div>
                                 </Row>
                             </TabPane>
                             <TabPane tabId="2">
                                 <Row>
-                                <Col sm="4">
-                                    <FooterBox data={ this.props.data } className='footerBox'/>
-                                </Col>
-                                <Col sm="4">
-                                    <FooterBox data={ this.props.data } className='footerBox'/>
-                                </Col>
-                                <Col sm="4">
-                                    <FooterBox data={ this.props.data } className='footerBox'/>
-                                </Col>
+                                    <div className="summaryContent">
+                                        <Col sm="3" className='footerBox 11'>
+                                            <FooterBox
+                                            data={ this.props.data } 
+                                            className='footerBox 11' 
+                                            cardTitle='Vol change of accounts:' 
+                                            cardSubtitle={ numOfAccNumberYTD } 
+                                            cardText={ numOfAccChangeYTD.toFixed(2) } 
+                                            />
+                                        </Col>
+                                        <Col sm="3" className='footerBox 12'>
+                                            <FooterBox
+                                            data={ this.props.data } 
+                                            className='footerBox 12' 
+                                            cardTitle='Vol change of assets:' 
+                                            cardSubtitle={ assetsValueNumberYTD } 
+                                            cardText={ assetsValueChangeYTD.toFixed(2) } 
+                                            />
+                                        </Col>
+                                        <Col sm="3" className='footerBox 13'>
+                                            <FooterBox
+                                            data={ this.props.data } 
+                                            className='footerBox 13' 
+                                            cardTitle='Active clients YTD:' 
+                                            cardSubtitle={ numOfAccNumber } 
+                                            cardText={ numOfAccChange.toFixed(2) } 
+                                            />
+                                        </Col>
+                                        <Col sm="3" className='footerBox 14'>
+                                            <FooterBox
+                                            data={ this.props.data } 
+                                            className='footerBox 14' 
+                                            cardTitle={ this.props.incomeType === 'All' ? 'Commission & Interests:' : this.props.incomeType + ':' } 
+                                            cardSubtitle={ incomeTypeSumNumberYTD } 
+                                            />
+                                        </Col>
+                                    </div>
                                 </Row>
                                 
                             </TabPane>
@@ -189,4 +345,4 @@ export default class FooterSummary extends Component {
                 }
     }
       
-// }
+}

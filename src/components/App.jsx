@@ -16,9 +16,11 @@ export default class AppJSX extends Component {
         dateTo: '',
         filteredData: [],
         incomeType: null,
-        topMenuHeader: true
+        topMenuHeader: true,
+        YTD: [],
     }
-
+    
+    
     handleDateFrom = (event) => {
         this.setState({ dateFrom: event.target.value })
         // this.setState({ filteredData: this.props.data.filter(this.filtering)})
@@ -27,55 +29,59 @@ export default class AppJSX extends Component {
     handleDateTo = (event) => {
         event.preventDefault()
         this.setState({ dateTo: event.target.value })
-        
-        // this.setState({ filteredData: this.props.data.filter(
-            //     (elm) => { return elm.DataSesji >= this.state.dateFrom && elm.DataSesji <= this.state.dateTo })
-            //     })
+    
             
-            if(this.state.incomeType === null) {
-                alert('Choose income type')
-            }
+            
         }
         
         handleIncomeType = (event) => {
             this.setState({ incomeType: event.target.value })
         }
         
-    handleClickRun = (event) => {
-        console.log('click ', event);
-        
+    handleClickRun = (event) => {        
         const dateFromCheck = this.props.data.map( elm => {
             if(elm.DataSesji === this.state.dateFrom){ return true }
         })
         const dateToCheck = this.props.data.map( elm => {
             if(elm.DataSesji === this.state.dateTo){ return true }
         })
-        console.log('start ', this.state.dateFrom);
-        console.log('end ', this.state.dateTo);
         
-
-        if (this.state.topMenuHeader === true){
-            this.setState( prev => ({ topMenuHeader: !prev.topMenuHeader }))
-        } 
+        
         
         // validate
-        if (this.state.dateFrom >= this.state.dateTo) {
-            return alert('Choose correct dates')
+        if(this.state.incomeType === null) {
+            return alert('Choose income type')
         }
-        if(!dateFromCheck.includes(true)){
-            return alert('Incorrect Start Date... Choose weekdays')
+        else if (this.state.dateFrom >= this.state.dateTo) {
+            return alert('Choose correct dates \nStart Date must be < End Date')
+            // return alert('Choose correct dates')
         }
-        if(!dateToCheck.includes(true)){
-            return alert('Incorrect End Date... Choose weekdays')
+        else if(!dateFromCheck.includes(true)){
+            return alert('Incorrect Start Date \nChoose weekdays')
         }
+        else if(!dateToCheck.includes(true)){
+            return alert('Incorrect End Date \nChoose weekdays')
+        }
+        else if (this.state.topMenuHeader === true){
+            this.setState( prev => ({ topMenuHeader: !prev.topMenuHeader }))
+        } 
     
         
         this.setState({ filteredData: this.props.data.filter(
-            (elm) => { 
+            (elm) => {
+                console.log(elm.DataSesji)
                 return elm.DataSesji >= this.state.dateFrom && elm.DataSesji <= this.state.dateTo 
+            }
+            ).sort((a, b) => (a.IDCzas - b.IDCzas))
+        })
+        this.setState({ YTD: this.props.data.filter(
+            (elm) => { 
+                return elm.DataSesji === '2018-12-28' 
             }
             )
         })
+
+
     }
     
     
@@ -92,7 +98,7 @@ export default class AppJSX extends Component {
             <div >
                 <Container className='main' >
                     <Row>
-                        <Col>
+                        <Col className='col-topMenu'>
                             <TopMenu data={ this.props.data } 
                             dateFrom={ this.state.dateFrom } 
                             dateTo={ this.state.dateTo } 
@@ -105,13 +111,13 @@ export default class AppJSX extends Component {
                         </Col>
                     </Row>
                     <Row className='content'>
-                        <Col>
+                        <Col className='col-chart'>
                             <Charts 
                             data={this.state.filteredData} 
                             incomeType={ this.state.incomeType }
                             />
                         </Col>
-                        <Col>
+                        <Col className='col-rightPanel'>
                             <RightPanel 
                             data={this.state.filteredData} 
                             incomeType={ this.state.incomeType }
@@ -119,10 +125,12 @@ export default class AppJSX extends Component {
                         </Col>
                     </Row>
                     <Row>
-                        <Col >
+                        <Col className='col-footer'>
                             <FooterSummary 
                             data={this.state.filteredData} 
                             incomeType={ this.state.incomeType }
+                            ytd={ this.state.YTD }
+                            dataYTD={ this.props.data }
                             />
                         </Col>
                     </Row>

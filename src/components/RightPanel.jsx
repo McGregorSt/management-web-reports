@@ -3,16 +3,22 @@ import { Table } from 'reactstrap';
 import NumberFormat from 'react-number-format';
 
 
+
 export default class RightPanel extends Component {
 
     render(){
-
-        const displayedData = this.props.data.map( elm => {
+        const reverseData = [...this.props.data].sort((a, b) => (b.IDCzas - a.IDCzas))
+        console.log('rev   ', reverseData);
+        
+        
+        const displayedData = reverseData.map( elm => {
+            
+            const commissionNet = Number(elm.ProwNettoKasPL) + Number(elm.ProwNettoTermPL) + Number(elm.ProwNettoKasZagr)
             if (this.props.incomeType === 'Commission'){
                 return(
                         <tr >
                             <td> { elm.DataSesji } </td>
-                            <td className='rightPanelData'> <NumberFormat displayType='text' value={ Math.round(elm.ProwNettoKasPL) } thousandSeparator=' ' /> </td>
+                            <td className='rightPanelData'> <NumberFormat displayType='text' value={ commissionNet } thousandSeparator=' ' /> </td>
                         </tr>
                 )
             }
@@ -34,12 +40,14 @@ export default class RightPanel extends Component {
             }
         })
 
-        // if (this.props.data.length === 0 || this.props.incomeType === null){
-        //     return null
-        // } else {
+
+
+        if (this.props.data.length === 0 || this.props.incomeType === null){
+            return null
+        } else {
         return(
             <div className='panel'>
-                <Table>
+                <Table >
                     <thead>
                     <tr>
                         <th>Date</th>
@@ -51,4 +59,4 @@ export default class RightPanel extends Component {
             </div>
         )}
     }
-// }
+}

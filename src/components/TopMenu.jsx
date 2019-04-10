@@ -32,7 +32,7 @@ render(){
         <div >
             <h5 
             className='topMenuHeader' 
-            style={{ display:  this.props.topMenuHeader ===  true ? 'block' : 'none'}}
+            style={{ display:  this.props.topMenuHeader ? 'block' : 'none'}}
             >
             Choose date range for report:
             </h5>
