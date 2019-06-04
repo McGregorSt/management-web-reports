@@ -1,3 +1,16 @@
+Application is a web-based report generator with summary
+for every day income volumes and others (e.g. volume of
+active clients, volume of assets, volume of accounts). App was
+built in React, styled in CSS and is responsive.
+
+Available dates for the report are:
+27-12-2018 to 27-03-2019
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
