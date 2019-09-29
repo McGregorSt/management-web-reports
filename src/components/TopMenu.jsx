@@ -7,8 +7,8 @@ const IncomeType = ({ income, handleIncomeType, topMenuHeader }) => {
     return(
             <div>
                 <h5 
-                className='topMenuHeader' 
-                style={{ display:  topMenuHeader ===  true ? 'block' : 'none'}}
+                    className='topMenuHeader' 
+                    style={{ display:  topMenuHeader ===  true ? 'block' : 'none'}}
                 >
                 Choose income type:
                 </h5>
@@ -31,11 +31,14 @@ render(){
     return(
         <div >
             <h5 
-            className='topMenuHeader' 
-            style={{ display:  this.props.topMenuHeader ? 'block' : 'none'}}
-            >
+                className='topMenuHeader' 
+                style={{ display:  this.props.topMenuHeader ? 'block' : 'none'}}
+                >
             Choose date range for report:
             </h5>
+            <div style={{ color: 'red', fontSize: '12px' }}>
+                <span>Available dates for the report: 27-12-2018 to 27-03-2019</span>
+            </div>
             <div className='dates'>
                 <h6>
                     <span>Start Date</span> 

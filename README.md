@@ -3,8 +3,10 @@ for every day income volumes and others (e.g. volume of
 active clients, volume of assets, volume of accounts). App was
 built in React, styled in CSS and is responsive.
 
-Available dates for the report are:
-27-12-2018 to 27-03-2019
+
+
+<h3><span style="color: red;">Available dates for the report are:
+27-12-2018 to 27-03-2019</span></h3>
 
 
 

@@ -2,8 +2,10 @@
   "name": "mwp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://McGregorSt.github.io/management-web-reports",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.1.1",
     "react": "^16.8.4",
     "react-date-picker": "^7.4.0",
     "react-datepicker": "^2.2.0",
@@ -18,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
