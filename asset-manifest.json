@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/management-web-reports/static/css/main.f9343d2f.chunk.css",
-    "main.js": "/management-web-reports/static/js/main.77f40052.chunk.js",
-    "main.js.map": "/management-web-reports/static/js/main.77f40052.chunk.js.map",
-    "runtime~main.js": "/management-web-reports/static/js/runtime~main.414c4f36.js",
-    "runtime~main.js.map": "/management-web-reports/static/js/runtime~main.414c4f36.js.map",
-    "static/css/2.1e66eaca.chunk.css": "/management-web-reports/static/css/2.1e66eaca.chunk.css",
-    "static/js/2.79301350.chunk.js": "/management-web-reports/static/js/2.79301350.chunk.js",
-    "static/js/2.79301350.chunk.js.map": "/management-web-reports/static/js/2.79301350.chunk.js.map",
+    "main.js": "/management-web-reports/static/js/main.8e39c34c.chunk.js",
+    "main.js.map": "/management-web-reports/static/js/main.8e39c34c.chunk.js.map",
+    "runtime-main.js": "/management-web-reports/static/js/runtime-main.883b2ecc.js",
+    "runtime-main.js.map": "/management-web-reports/static/js/runtime-main.883b2ecc.js.map",
+    "static/css/2.619dee99.chunk.css": "/management-web-reports/static/css/2.619dee99.chunk.css",
+    "static/js/2.fa6a1d29.chunk.js": "/management-web-reports/static/js/2.fa6a1d29.chunk.js",
+    "static/js/2.fa6a1d29.chunk.js.map": "/management-web-reports/static/js/2.fa6a1d29.chunk.js.map",
     "index.html": "/management-web-reports/index.html",
-    "precache-manifest.12ebbda777d599fbcf199e4017d89a26.js": "/management-web-reports/precache-manifest.12ebbda777d599fbcf199e4017d89a26.js",
+    "precache-manifest.840d5326768b553e7694eaeeb1527ab2.js": "/management-web-reports/precache-manifest.840d5326768b553e7694eaeeb1527ab2.js",
     "service-worker.js": "/management-web-reports/service-worker.js",
-    "static/css/2.1e66eaca.chunk.css.map": "/management-web-reports/static/css/2.1e66eaca.chunk.css.map",
+    "static/css/2.619dee99.chunk.css.map": "/management-web-reports/static/css/2.619dee99.chunk.css.map",
     "static/css/main.f9343d2f.chunk.css.map": "/management-web-reports/static/css/main.f9343d2f.chunk.css.map",
     "static/media/App.css": "/management-web-reports/static/media/ales-krivec-20582-unsplash.ea60089e.jpg"
   }
